@@ -1,0 +1,8515 @@
+[{
+	"item-name": "3rd age full helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-2",
+		"stab-defence": "+47",
+		"slash-defence": "+49",
+		"crush-defence": "+43",
+		"magic-defence": "-3",
+		"ranged-defence": "+48",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "3rd age mage hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+8",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+8",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "3rd age range coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-2",
+		"ranged-attack": "+9",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+5",
+		"ranged-defence": "+8",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "4th birthday hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "A powdered wig",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Achievement diary hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant helm (h1)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant helm (h2)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant helm (h3)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant helm (h4)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant helm (h5)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Adamant med helm",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+14",
+		"slash-defence": "+15",
+		"crush-defence": "+13",
+		"magic-defence": "-1",
+		"ranged-defence": "+14",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Afro",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Agility hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ahrim's hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+6",
+		"ranged-attack": "-2",
+		"stab-defence": "+15",
+		"slash-defence": "+13",
+		"crush-defence": "+16",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Air tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ancestral hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+8",
+		"ranged-attack": "-2",
+		"stab-defence": "12",
+		"slash-defence": "11",
+		"crush-defence": "13",
+		"magic-defence": "5",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": "2"
+	}
+}, {
+	"item-name": "Ancient coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+4",
+		"ranged-defence": "+8",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ancient full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ancient mitre",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Angler hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ankou mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Antisanta mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Arceuus house hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Archer helm",
+	"stats": {
+		"stab-attack": "-5",
+		"slash-attack": "-5",
+		"crush-attack": "-5",
+		"magic-attack": "-5",
+		"ranged-attack": "+6",
+		"stab-defence": "+6",
+		"slash-defence": "+8",
+		"crush-defence": "+10",
+		"magic-defence": "+6",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ardougne max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Armadyl coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+4",
+		"ranged-defence": "+8",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Armadyl full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Armadyl helmet",
+	"stats": {
+		"stab-attack": "-5",
+		"slash-attack": "-5",
+		"crush-attack": "-5",
+		"magic-attack": "-5",
+		"ranged-attack": "+10",
+		"stab-defence": "+6",
+		"slash-defence": "+8",
+		"crush-defence": "+10",
+		"magic-defence": "+10",
+		"ranged-defence": "+8",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Armadyl mitre",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Attack hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ava's max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bandana eyepatch",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bandos coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+4",
+		"ranged-defence": "+8",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bandos full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bandos mitre",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Banshee mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Beanie",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bearhead",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-3",
+		"stab-defence": "+12",
+		"slash-defence": "+14",
+		"crush-defence": "+10",
+		"magic-defence": "+7",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Beret mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Berserker helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "+31",
+		"slash-defence": "+29",
+		"crush-defence": "+33",
+		"magic-defence": "0",
+		"ranged-defence": "+30",
+		"strength-bonus": "+3",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Big pirate hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black beret",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black cavalier",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black demon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "12",
+		"slash-defence": "13",
+		"crush-defence": "10",
+		"magic-defence": "-1",
+		"ranged-defence": "12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black h'ween mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black helm (h1)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black helm (h2)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black helm (h3)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black helm (h4)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black helm (h5)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black leprechaun hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black mask",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+8",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black mask (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+8",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+8",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black santa hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black slayer helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black slayer helmet (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "+3",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "+10",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black unicorn mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black wizard hat (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Black wizard hat (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blacksmith's helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blood'n'tar snelm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "7",
+		"slash-defence": "8",
+		"crush-defence": "6",
+		"magic-defence": "-1",
+		"ranged-defence": "7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue beret",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue halloween mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue wizard hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue wizard hat (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Blue wizard hat (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bobble hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Body tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bomber cap",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bowl wig",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bowman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bowmaster hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Broken bark snelm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "7",
+		"slash-defence": "8",
+		"crush-defence": "6",
+		"magic-defence": "-1",
+		"ranged-defence": "7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bronze dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bronze full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bronze full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bronze full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bronze med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+3",
+		"slash-defence": "+4",
+		"crush-defence": "+2",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Brown headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Brown tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bruise blue snelm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+7",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bucket helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bucket helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bunny ears",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Camel mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Camo helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cap and goggles",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cat mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cavalier mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Chaos tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Chef's hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Chicken head",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-1",
+		"ranged-attack": "+2",
+		"stab-defence": "+4",
+		"slash-defence": "+6",
+		"crush-defence": "+8",
+		"magic-defence": "+4",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Construct. hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cooking hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Corrupted helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cosmic tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cow mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Crab helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "5",
+		"slash-defence": "4",
+		"crush-defence": "3",
+		"magic-defence": "-1",
+		"ranged-defence": "4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Crafting hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cream hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Crier hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cyclops head",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dark cavalier",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dark infinity hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+6",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Death tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Decorative magic hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+4",
+		"slash-defence": "+4",
+		"crush-defence": "+4",
+		"magic-defence": "+4",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Deerstalker",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Defence hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Desert disguise",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dharok's helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+45",
+		"slash-defence": "+48",
+		"crush-defence": "+44",
+		"magic-defence": "-1",
+		"ranged-defence": "+51",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Diving helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Doctors hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Double eye patch",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dragon archer hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dragon full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+45",
+		"slash-defence": "+48",
+		"crush-defence": "+41",
+		"magic-defence": "-1",
+		"ranged-defence": "+46",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dragon full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+45",
+		"slash-defence": "+48",
+		"crush-defence": "+41",
+		"magic-defence": "-1",
+		"ranged-defence": "+46",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dragon med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+33",
+		"slash-defence": "+35",
+		"crush-defence": "+32",
+		"magic-defence": "-1",
+		"ranged-defence": "+34",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Druidic wreath",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dwarven helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "+6",
+		"magic-attack": "-2",
+		"ranged-attack": "-2",
+		"stab-defence": "+27",
+		"slash-defence": "+28",
+		"crush-defence": "+31",
+		"magic-defence": "+5",
+		"ranged-defence": "+24",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Earmuffs",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Earth tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Easter egg helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Elder chaos hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+5",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Elemental helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Enchanted hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Evil chicken head",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Expert dragon archer hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Expert hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Expert ogre dragon archer hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Facemask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fake beak",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fancy tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Farmer's strawhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Farming hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Farseer helm",
+	"stats": {
+		"stab-attack": "-5",
+		"slash-attack": "-5",
+		"crush-attack": "-5",
+		"magic-attack": "+6",
+		"ranged-attack": "-5",
+		"stab-defence": "+8",
+		"slash-defence": "+10",
+		"crush-defence": "+12",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fedora",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fez",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fighter hat",
+	"stats": {
+		"stab-attack": "+5",
+		"slash-attack": "+5",
+		"crush-attack": "+5",
+		"magic-attack": "-7",
+		"ranged-attack": "-7",
+		"stab-defence": "+27",
+		"slash-defence": "+29",
+		"crush-defence": "+26",
+		"magic-defence": "-3",
+		"ranged-defence": "+28",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fire max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fire tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Firemaking hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fishbowl helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fishing hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Five barrels",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fletching hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Forester hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Four barrels",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fremennik hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Fremennik helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Frog mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gas mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ghostly hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gilded full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gilded med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+22",
+		"slash-defence": "+23",
+		"crush-defence": "+21",
+		"magic-defence": "-1",
+		"ranged-defence": "+22",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gnome child hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gnome goggles",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+0",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+0",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Goblin mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gold decorative helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+14",
+		"slash-defence": "+15",
+		"crush-defence": "+13",
+		"magic-defence": "-1",
+		"ranged-defence": "+14",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gold headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gold helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "+10",
+		"crush-defence": "+20",
+		"magic-defence": "0",
+		"ranged-defence": "+10",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Golden chef's hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Graahk headdress",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "-1",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Graceful hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Granite helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-9",
+		"ranged-attack": "-7",
+		"stab-defence": "+31",
+		"slash-defence": "+33",
+		"crush-defence": "+29",
+		"magic-defence": "-1",
+		"ranged-defence": "+39",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gravedigger mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Greater demon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green halloween mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green slayer helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green slayer helmet (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "+3",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "+10",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Green tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Grey hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+3",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+3",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Grey tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Grim reaper hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthan's helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+55",
+		"slash-defence": "+58",
+		"crush-defence": "+54",
+		"magic-defence": "-1",
+		"ranged-defence": "+62",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthix coif",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+4",
+		"ranged-defence": "+8",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthix full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthix halo",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+11",
+		"slash-defence": "+12",
+		"crush-defence": "+10",
+		"magic-defence": "+11",
+		"ranged-defence": "-1",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthix max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthix mitre",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Half moon spectacles",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ham hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "+1",
+		"crush-defence": "+2",
+		"magic-defence": "0",
+		"ranged-defence": "+1",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hard hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+0",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+0",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hardcore ironman helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hat eyepatch",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Healer hat",
+	"stats": {
+		"stab-attack": "-5",
+		"slash-attack": "-5",
+		"crush-attack": "-5",
+		"magic-attack": "+6",
+		"ranged-attack": "-5",
+		"stab-defence": "+6",
+		"slash-defence": "+8",
+		"crush-defence": "+10",
+		"magic-defence": "+7",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Helm of neitiznot",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+31",
+		"slash-defence": "+29",
+		"crush-defence": "+34",
+		"magic-defence": "+3",
+		"ranged-defence": "+30",
+		"strength-bonus": "+3",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Helm of raedwald",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Herblore hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Highwayman mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hitpoints hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hood of darkness",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hornwood helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hosidius house hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hunter's honour",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hunter hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Imp mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Infernal max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Infinity hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+6",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Initiate sallet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+13",
+		"slash-defence": "+14",
+		"crush-defence": "+11",
+		"magic-defence": "-1",
+		"ranged-defence": "+13",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Inverted santa hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Iron dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Iron full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Iron full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Iron full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Iron med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ironman helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jack lantern mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jester hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jonas mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jungle demon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Kandarin headgear 1",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Kandarin headgear 2",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+7",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Kandarin headgear 3",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+8",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Kandarin headgear 4",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+10",
+		"slash-defence": "+11",
+		"crush-defence": "+9",
+		"magic-defence": "-1",
+		"ranged-defence": "+10",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Karil's coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+6",
+		"slash-defence": "+9",
+		"crush-defence": "+12",
+		"magic-defence": "+6",
+		"ranged-defence": "+10",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Khazard helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Kyatt hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "-1",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Larupia hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "-1",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "+1",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lava dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Law tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Leather cowl",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "+1",
+		"stab-defence": "+2",
+		"slash-defence": "+3",
+		"crush-defence": "+4",
+		"magic-defence": "+2",
+		"ranged-defence": "+3",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lederhosen hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Left eye patch",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Leprechaun hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lesser demon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Light infinity hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+6",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lovakengj house hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lumberjack hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lunar helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "-2",
+		"stab-defence": "+8",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+2",
+		"ranged-defence": "0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Magic hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Magma helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Magma helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "+52",
+		"slash-defence": "+55",
+		"crush-defence": "+58",
+		"magic-defence": "0",
+		"ranged-defence": "+50",
+		"strength-bonus": "+3",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Marksman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mask of balance",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Menaphite purple hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Menaphite red hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mime mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mind helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mind tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mining helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+4",
+		"slash-defence": "+5",
+		"crush-defence": "+3",
+		"magic-defence": "-1",
+		"ranged-defence": "+4",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mining hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mithril dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mithril full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+13",
+		"slash-defence": "+14",
+		"crush-defence": "+11",
+		"magic-defence": "-1",
+		"ranged-defence": "+13",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mithril full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+13",
+		"slash-defence": "+14",
+		"crush-defence": "+11",
+		"magic-defence": "-1",
+		"ranged-defence": "+13",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mithril full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+13",
+		"slash-defence": "+14",
+		"crush-defence": "+11",
+		"magic-defence": "-1",
+		"ranged-defence": "+13",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mithril med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+10",
+		"slash-defence": "+11",
+		"crush-defence": "+9",
+		"magic-defence": "-1",
+		"ranged-defence": "+10",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Monocle",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Moonclan hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "-5",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "+3",
+		"ranged-defence": "-5",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Moonclan helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "-5",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "+3",
+		"ranged-defence": "-5",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mudskipper hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mummy's head",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Music hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Musketeer hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Myre snelm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+7",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mystic hat (blue)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mystic hat (dark)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Mystic hat (light)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Nature tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Navy cavalier",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Nose peg",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Nurse hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Obsidian helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "25",
+		"slash-defence": "23",
+		"crush-defence": "26",
+		"magic-defence": "0",
+		"ranged-defence": "24",
+		"strength-bonus": "3",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ochre snelm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+7",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre bowman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre bowmaster hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre dragon archer hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre expert hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre forester hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre marksman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre woodsman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ogre yeoman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Old demon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "One barrel",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Orange boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Partyhat & specs",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Penguin mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pink boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pink hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pink headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pirate's hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pirate bandana",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pirate bandana (Trouble Brewing)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pirate hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pirate hat & patch",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Piscarilius house hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pith helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Prayer hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Progress hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "0",
+		"magic-strength": "0"
+	}
+}, {
+	"item-name": "Proselyte sallet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "-1",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "+4",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Prospector helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Purple boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Purple hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+3",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+3",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Purple partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Purple slayer helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Purple slayer helmet (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "+3",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "+10",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Purple tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pyromancer hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Quest point hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rainbow partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ram skull helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "-2",
+		"stab-defence": "+19",
+		"slash-defence": "+21",
+		"crush-defence": "+16",
+		"magic-defence": "0",
+		"ranged-defence": "+19",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ranger hat",
+	"stats": {
+		"stab-attack": "-5",
+		"slash-attack": "-5",
+		"crush-attack": "-5",
+		"magic-attack": "-5",
+		"ranged-attack": "+6",
+		"stab-defence": "+7",
+		"slash-defence": "+10",
+		"crush-defence": "+11",
+		"magic-defence": "+5",
+		"ranged-defence": "+8",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ranging hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red beret",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red cavalier",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red decorative helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+7",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red halloween mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+3",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+3",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red slayer helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red slayer helmet (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "+3",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "+10",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Red tricorn hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Reindeer hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Right eye patch",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Robin hood hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "-10",
+		"ranged-attack": "+8",
+		"stab-defence": "+4",
+		"slash-defence": "+6",
+		"crush-defence": "+8",
+		"magic-defence": "+4",
+		"ranged-defence": "+4",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rock-shell helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rogue's revenge",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rogue mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+5",
+		"slash-defence": "+5",
+		"crush-defence": "+5",
+		"magic-defence": "+5",
+		"ranged-defence": "+5",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Royal crown",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune helm (h1)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune helm (h2)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune helm (h3)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune helm (h4)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune helm (h5)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Arrav)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Asgarnia)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Dorgeshuun)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Dragon)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Fairy)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Guthix)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (HAM)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Horse)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Jogre)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Kandarin)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Misthalin)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Money)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Saradomin)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Skull)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Varrock)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune heraldic helm (Zamorak)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rune med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+22",
+		"slash-defence": "+23",
+		"crush-defence": "+21",
+		"magic-defence": "-1",
+		"ranged-defence": "+22",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Runecrafting hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Runner hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "+1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Sagacious spectacles",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Samurai kasa",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+16",
+		"slash-defence": "+17",
+		"crush-defence": "+15",
+		"magic-defence": "+4",
+		"ranged-defence": "+16",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Santa hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Santa mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin coif",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+4",
+		"ranged-defence": "+8",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin halo",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+11",
+		"slash-defence": "+12",
+		"crush-defence": "+10",
+		"magic-defence": "+11",
+		"ranged-defence": "-1",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin mitre",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin team hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "+1",
+		"crush-defence": "+2",
+		"magic-defence": "0",
+		"ranged-defence": "+1",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Serpentine helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Serpentine helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "+52",
+		"slash-defence": "+55",
+		"crush-defence": "+58",
+		"magic-defence": "0",
+		"ranged-defence": "+50",
+		"strength-bonus": "+3",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien helm (1)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-2",
+		"stab-defence": "+3",
+		"slash-defence": "+5",
+		"crush-defence": "+4",
+		"magic-defence": "-1",
+		"ranged-defence": "+5",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien helm (2)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-2",
+		"stab-defence": "+5",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien helm (3)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+7",
+		"slash-defence": "+10",
+		"crush-defence": "+8",
+		"magic-defence": "-2",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien helm (4)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+8",
+		"slash-defence": "+12",
+		"crush-defence": "+10",
+		"magic-defence": "-2",
+		"ranged-defence": "+11",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien helm (5)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+10",
+		"slash-defence": "+14",
+		"crush-defence": "+12",
+		"magic-defence": "-2",
+		"ranged-defence": "+13",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien house hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Silly jester hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+0",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+5",
+		"ranged-defence": "-5",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Skeletal helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "-2",
+		"stab-defence": "+10",
+		"slash-defence": "+9",
+		"crush-defence": "+11",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Skeleton mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Slayer helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Slayer helmet (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "+3",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "+10",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Slayer hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Sleeping cap",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Smithing hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Snakeskin bandana",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "+4",
+		"stab-defence": "+2",
+		"slash-defence": "+4",
+		"crush-defence": "+4",
+		"magic-defence": "+2",
+		"ranged-defence": "+2",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Spined helm",
+	"stats": {
+		"stab-attack": "-6",
+		"slash-attack": "-6",
+		"crush-attack": "-6",
+		"magic-attack": "-6",
+		"ranged-attack": "+6",
+		"stab-defence": "+6",
+		"slash-defence": "+6",
+		"crush-defence": "+6",
+		"magic-defence": "+6",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Spiny helmet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Splitbark helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "-2",
+		"stab-defence": "+10",
+		"slash-defence": "+9",
+		"crush-defence": "+11",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel dragon mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel full helm (g)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel full helm (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Arrav)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Asgarnia)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Dorgeshuun)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Dragon)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Fairy)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Guthix)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (HAM)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Horse)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Jogre)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Kandarin)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Misthalin)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Money)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Saradomin)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Skull)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Varrock)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel heraldic helm (Zamorak)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Steel med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+7",
+		"slash-defence": "+8",
+		"crush-defence": "+6",
+		"magic-defence": "-1",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Strength hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tan cavalier",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tanzanite helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tanzanite helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "+52",
+		"slash-defence": "+55",
+		"crush-defence": "+58",
+		"magic-defence": "0",
+		"ranged-defence": "+50",
+		"strength-bonus": "+3",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Teal hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+3",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+3",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Thieving hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Three barrels",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Top hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Top hat & monocle",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Torag's helm",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+55",
+		"slash-defence": "+58",
+		"crush-defence": "+54",
+		"magic-defence": "-1",
+		"ranged-defence": "+62",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tri-jester hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tribal mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Turquoise hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Two barrels",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tyras helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+7",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ultimate ironman helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+6",
+		"slash-defence": "+7",
+		"crush-defence": "+5",
+		"magic-defence": "-1",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Verac's helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+55",
+		"slash-defence": "+58",
+		"crush-defence": "+54",
+		"magic-defence": "0",
+		"ranged-defence": "+56",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Void mage helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+6",
+		"slash-defence": "+6",
+		"crush-defence": "+6",
+		"magic-defence": "+6",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Void melee helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+6",
+		"slash-defence": "+6",
+		"crush-defence": "+6",
+		"magic-defence": "+6",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Void ranger helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+6",
+		"slash-defence": "+6",
+		"crush-defence": "+6",
+		"magic-defence": "+6",
+		"ranged-defence": "+6",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Warrior helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "+5",
+		"crush-attack": "0",
+		"magic-attack": "-5",
+		"ranged-attack": "-5",
+		"stab-defence": "+31",
+		"slash-defence": "+33",
+		"crush-defence": "+29",
+		"magic-defence": "0",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Water tiara",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White beret",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White boater",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White cavalier",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White decorative helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+10",
+		"slash-defence": "+11",
+		"crush-defence": "+9",
+		"magic-defence": "-1",
+		"ranged-defence": "+10",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+12",
+		"slash-defence": "+13",
+		"crush-defence": "+10",
+		"magic-defence": "-1",
+		"ranged-defence": "+12",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White headband",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White med helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-3",
+		"ranged-attack": "-1",
+		"stab-defence": "+9",
+		"slash-defence": "+10",
+		"crush-defence": "+8",
+		"magic-defence": "-1",
+		"ranged-defence": "+9",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "White unicorn mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Wizard hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Woodcutting hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Woodsman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Woolly hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Xerician hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+3",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Yellow hat",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+3",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+3",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Yellow partyhat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Yeoman hat",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak coif",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-1",
+		"ranged-attack": "+7",
+		"stab-defence": "+4",
+		"slash-defence": "+7",
+		"crush-defence": "+10",
+		"magic-defence": "+4",
+		"ranged-defence": "+8",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak full helm",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "-6",
+		"ranged-attack": "-2",
+		"stab-defence": "+30",
+		"slash-defence": "+32",
+		"crush-defence": "+27",
+		"magic-defence": "-1",
+		"ranged-defence": "+30",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak halo",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+11",
+		"slash-defence": "+12",
+		"crush-defence": "+10",
+		"magic-defence": "+11",
+		"ranged-defence": "-1",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak max hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak mitre",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+4",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+4",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak team hood",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "+1",
+		"crush-defence": "+2",
+		"magic-defence": "0",
+		"ranged-defence": "+1",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zombie mask",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}]

@@ -1,0 +1,4903 @@
+[
+    {
+        "item-name": "3rd age platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-20",
+            "ranged-attack": "0",
+            "stab-defence": "+96",
+            "slash-defence": "+108",
+            "crush-defence": "+113",
+            "magic-defence": "-4",
+            "ranged-defence": "+97",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10348"
+    },
+    {
+        "item-name": "3rd age range top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+60",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10330"
+    },
+    {
+        "item-name": "3rd age robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+24",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+24",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10338"
+    },
+    {
+        "item-name": "Adamant chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+36",
+            "slash-defence": "+50",
+            "crush-defence": "+61",
+            "magic-defence": "-3",
+            "ranged-defence": "+38",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1111"
+    },
+    {
+        "item-name": "Adamant platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+65",
+            "slash-defence": "+63",
+            "crush-defence": "+55",
+            "magic-defence": "-6",
+            "ranged-defence": "+63",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1123"
+    },
+    {
+        "item-name": "Adamant platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+65",
+            "slash-defence": "+63",
+            "crush-defence": "+55",
+            "magic-defence": "-6",
+            "ranged-defence": "+63",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2607"
+    },
+    {
+        "item-name": "Adamant platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+65",
+            "slash-defence": "+63",
+            "crush-defence": "+55",
+            "magic-defence": "-6",
+            "ranged-defence": "+63",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2599"
+    },
+    {
+        "item-name": "Ahrim's robetop",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+30",
+            "ranged-attack": "-10",
+            "stab-defence": "+52",
+            "slash-defence": "+37",
+            "crush-defence": "+63",
+            "magic-defence": "+30",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4712"
+    },
+    {
+        "item-name": "Ancestral robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+35",
+            "ranged-attack": "-8",
+            "stab-defence": "42",
+            "slash-defence": "31",
+            "crush-defence": "51",
+            "magic-defence": "28",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": "2"
+        }
+    },
+    {
+        "item-name": "Ancient d'hide",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12492"
+    },
+    {
+        "item-name": "Ancient platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12460"
+    },
+    {
+        "item-name": "Ancient robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12193"
+    },
+    {
+        "item-name": "Angler top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13259"
+    },
+    {
+        "item-name": "Ankou top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20098"
+    },
+    {
+        "item-name": "Antisanta jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12893"
+    },
+    {
+        "item-name": "Armadyl chestplate",
+        "stats": {
+            "stab-attack": "-7",
+            "slash-attack": "-7",
+            "crush-attack": "-7",
+            "magic-attack": "-15",
+            "ranged-attack": "+33",
+            "stab-defence": "+56",
+            "slash-defence": "+48",
+            "crush-defence": "+61",
+            "magic-defence": "+70",
+            "ranged-defence": "+57",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11828"
+    },
+    {
+        "item-name": "Armadyl d'hide",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12508"
+    },
+    {
+        "item-name": "Armadyl platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12470"
+    },
+    {
+        "item-name": "Armadyl robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12253"
+    },
+    {
+        "item-name": "Bandos chestplate",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-15",
+            "ranged-attack": "-10",
+            "stab-defence": "+98",
+            "slash-defence": "+93",
+            "crush-defence": "+105",
+            "magic-defence": "-6",
+            "ranged-defence": "+133",
+            "strength-bonus": "+4",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11832"
+    },
+    {
+        "item-name": "Bandos d'hide",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12500"
+    },
+    {
+        "item-name": "Bandos platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12480"
+    },
+    {
+        "item-name": "Bandos robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12265"
+    },
+    {
+        "item-name": "Banshee top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Black chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+22",
+            "slash-defence": "+32",
+            "crush-defence": "+39",
+            "magic-defence": "-3",
+            "ranged-defence": "+24",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1107"
+    },
+    {
+        "item-name": "Black d'hide body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2503"
+    },
+    {
+        "item-name": "Black d'hide body (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12381"
+    },
+    {
+        "item-name": "Black d'hide body (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12385"
+    },
+    {
+        "item-name": "Black desert shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6750"
+    },
+    {
+        "item-name": "Black elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10400"
+    },
+    {
+        "item-name": "Black naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8956"
+    },
+    {
+        "item-name": "Black platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "41",
+            "slash-defence": "40",
+            "crush-defence": "30",
+            "magic-defence": "-6",
+            "ranged-defence": "40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1125"
+    },
+    {
+        "item-name": "Black platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+41",
+            "slash-defence": "+40",
+            "crush-defence": "+30",
+            "magic-defence": "-6",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2591"
+    },
+    {
+        "item-name": "Black platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+41",
+            "slash-defence": "+40",
+            "crush-defence": "+30",
+            "magic-defence": "-6",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2583"
+    },
+    {
+        "item-name": "Black robe",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "581"
+    },
+    {
+        "item-name": "Black wizard robe (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12449"
+    },
+    {
+        "item-name": "Black wizard robe (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12451"
+    },
+    {
+        "item-name": "Blessed dragonhide body",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Blue d'hide body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+20",
+            "stab-defence": "+45",
+            "slash-defence": "+37",
+            "crush-defence": "+50",
+            "magic-defence": "+30",
+            "ranged-defence": "+45",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2499"
+    },
+    {
+        "item-name": "Blue d'hide body (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+20",
+            "stab-defence": "+45",
+            "slash-defence": "+37",
+            "crush-defence": "+50",
+            "magic-defence": "+30",
+            "ranged-defence": "+45",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7374"
+    },
+    {
+        "item-name": "Blue d'hide body (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+20",
+            "stab-defence": "+45",
+            "slash-defence": "+37",
+            "crush-defence": "+50",
+            "magic-defence": "+30",
+            "ranged-defence": "+45",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7376"
+    },
+    {
+        "item-name": "Blue elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10428"
+    },
+    {
+        "item-name": "Blue elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10408"
+    },
+    {
+        "item-name": "Blue naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8952"
+    },
+    {
+        "item-name": "Blue robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "640"
+    },
+    {
+        "item-name": "Blue wizard robe",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "577"
+    },
+    {
+        "item-name": "Blue wizard robe (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7390"
+    },
+    {
+        "item-name": "Blue wizard robe (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7392"
+    },
+    {
+        "item-name": "Bob's black shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10322"
+    },
+    {
+        "item-name": "Bob's blue shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10318"
+    },
+    {
+        "item-name": "Bob's green shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10320"
+    },
+    {
+        "item-name": "Bob's purple shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10324"
+    },
+    {
+        "item-name": "Bob's red shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10316"
+    },
+    {
+        "item-name": "Bomber jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9944"
+    },
+    {
+        "item-name": "Bronze chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+7",
+            "slash-defence": "+11",
+            "crush-defence": "+13",
+            "magic-defence": "-3",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1103"
+    },
+    {
+        "item-name": "Bronze platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+15",
+            "slash-defence": "+14",
+            "crush-defence": "+9",
+            "magic-defence": "-6",
+            "ranged-defence": "+14",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1117"
+    },
+    {
+        "item-name": "Bronze platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+15",
+            "slash-defence": "+14",
+            "crush-defence": "+9",
+            "magic-defence": "-6",
+            "ranged-defence": "+14",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12205"
+    },
+    {
+        "item-name": "Bronze platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+15",
+            "slash-defence": "+14",
+            "crush-defence": "+9",
+            "magic-defence": "-6",
+            "ranged-defence": "+14",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12215"
+    },
+    {
+        "item-name": "Brown apron",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1757"
+    },
+    {
+        "item-name": "Brown naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8955"
+    },
+    {
+        "item-name": "Builder's shirt",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+0",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10863"
+    },
+    {
+        "item-name": "Bunny top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13663"
+    },
+    {
+        "item-name": "Camo top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6654"
+    },
+    {
+        "item-name": "Carnillean armour",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+20",
+            "slash-defence": "+14",
+            "crush-defence": "+8",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2405"
+    },
+    {
+        "item-name": "Chicken wings",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11017"
+    },
+    {
+        "item-name": "Citizen top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "2",
+            "crush-defence": "2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9640"
+    },
+    {
+        "item-name": "Clue hunter garb",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-2",
+            "ranged-attack": "2",
+            "stab-defence": "8",
+            "slash-defence": "9",
+            "crush-defence": "10",
+            "magic-defence": "4",
+            "ranged-defence": "9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19689"
+    },
+    {
+        "item-name": "Corrupted platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Cow top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12956"
+    },
+    {
+        "item-name": "Cream robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "642"
+    },
+    {
+        "item-name": "Crier coat",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20240"
+    },
+    {
+        "item-name": "Dark infinity top",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+22",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+22",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12458"
+    },
+    {
+        "item-name": "Dark tuxedo jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19958"
+    },
+    {
+        "item-name": "Deadman's chest",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13317"
+    },
+    {
+        "item-name": "Decorative magic robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+20",
+            "slash-defence": "+20",
+            "crush-defence": "+20",
+            "magic-defence": "+20",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Decorative range top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+20",
+            "slash-defence": "+20",
+            "crush-defence": "+20",
+            "magic-defence": "+20",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Desert camo top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10061"
+    },
+    {
+        "item-name": "Desert shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1833"
+    },
+    {
+        "item-name": "Desert top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6384"
+    },
+    {
+        "item-name": "Desert top (overcoat)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Dharok's platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+122",
+            "slash-defence": "+120",
+            "crush-defence": "+107",
+            "magic-defence": "-6",
+            "ranged-defence": "+132",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4720"
+    },
+    {
+        "item-name": "Doctors' gown",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "430"
+    },
+    {
+        "item-name": "Dragon chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+81",
+            "slash-defence": "+93",
+            "crush-defence": "+98",
+            "magic-defence": "-3",
+            "ranged-defence": "+82",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2513"
+    },
+    {
+        "item-name": "Dragon chainbody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+81",
+            "slash-defence": "+93",
+            "crush-defence": "+98",
+            "magic-defence": "-3",
+            "ranged-defence": "+82",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12414"
+    },
+    {
+        "item-name": "Druid's robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+4",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "540"
+    },
+    {
+        "item-name": "Elder chaos top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+10",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20517"
+    },
+    {
+        "item-name": "Elite void top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+45",
+            "slash-defence": "+45",
+            "crush-defence": "+45",
+            "magic-defence": "+45",
+            "ranged-defence": "+45",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13072"
+    },
+    {
+        "item-name": "Enchanted top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+20",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+20",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7399"
+    },
+    {
+        "item-name": "Evil chicken wings",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20436"
+    },
+    {
+        "item-name": "Farmer's jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13642"
+    },
+    {
+        "item-name": "Farmer's shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13643"
+    },
+    {
+        "item-name": "Fighter torso",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-40",
+            "ranged-attack": "+0",
+            "stab-defence": "+62",
+            "slash-defence": "+85",
+            "crush-defence": "+62",
+            "magic-defence": "-10",
+            "ranged-defence": "+67",
+            "strength-bonus": "+4",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10551"
+    },
+    {
+        "item-name": "Fremennik beige shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3771"
+    },
+    {
+        "item-name": "Fremennik blue shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3775"
+    },
+    {
+        "item-name": "Fremennik brown shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3767"
+    },
+    {
+        "item-name": "Fremennik grey shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3769"
+    },
+    {
+        "item-name": "Fremennik red shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3773"
+    },
+    {
+        "item-name": "Fremennik robe",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3793"
+    },
+    {
+        "item-name": "Frog-leather body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-5",
+            "ranged-attack": "+10",
+            "stab-defence": "+23",
+            "slash-defence": "+26",
+            "crush-defence": "+30",
+            "magic-defence": "+15",
+            "ranged-defence": "+32",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10954"
+    },
+    {
+        "item-name": "Ghostly robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+5",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+5",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Gilded chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+63",
+            "slash-defence": "+72",
+            "crush-defence": "+78",
+            "magic-defence": "-3",
+            "ranged-defence": "+65",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20149"
+    },
+    {
+        "item-name": "Gilded platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3481"
+    },
+    {
+        "item-name": "Gold decorative body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+65",
+            "slash-defence": "+63",
+            "crush-defence": "+55",
+            "magic-defence": "-6",
+            "ranged-defence": "+63",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "0",
+            "magic-strength": "0"
+        }
+    },
+    {
+        "item-name": "Gold elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12343"
+    },
+    {
+        "item-name": "Gold elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12347"
+    },
+    {
+        "item-name": "Golden apron",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20208"
+    },
+    {
+        "item-name": "Graahk top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10049"
+    },
+    {
+        "item-name": "Graceful top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11854"
+    },
+    {
+        "item-name": "Granite body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-22",
+            "ranged-attack": "-5",
+            "stab-defence": "+87",
+            "slash-defence": "+84",
+            "crush-defence": "+79",
+            "magic-defence": "-6",
+            "ranged-defence": "+97",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10564"
+    },
+    {
+        "item-name": "Gravedigger top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13284"
+    },
+    {
+        "item-name": "Green d'hide body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+15",
+            "stab-defence": "+40",
+            "slash-defence": "+32",
+            "crush-defence": "+45",
+            "magic-defence": "+20",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1135"
+    },
+    {
+        "item-name": "Green d'hide body (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+15",
+            "stab-defence": "+40",
+            "slash-defence": "+32",
+            "crush-defence": "+45",
+            "magic-defence": "+20",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7370"
+    },
+    {
+        "item-name": "Green d'hide body (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+15",
+            "stab-defence": "+40",
+            "slash-defence": "+32",
+            "crush-defence": "+45",
+            "magic-defence": "+20",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7372"
+    },
+    {
+        "item-name": "Green elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10432"
+    },
+    {
+        "item-name": "Green elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10412"
+    },
+    {
+        "item-name": "Green naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8953"
+    },
+    {
+        "item-name": "Green robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "638"
+    },
+    {
+        "item-name": "Grey naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8958"
+    },
+    {
+        "item-name": "Grey robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2896"
+    },
+    {
+        "item-name": "Guthan's platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+122",
+            "slash-defence": "+120",
+            "crush-defence": "+107",
+            "magic-defence": "-6",
+            "ranged-defence": "+132",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4728"
+    },
+    {
+        "item-name": "Guthix dragonhide",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10378"
+    },
+    {
+        "item-name": "Guthix platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2669"
+    },
+    {
+        "item-name": "Guthix robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10462"
+    },
+    {
+        "item-name": "Ham shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4298"
+    },
+    {
+        "item-name": "Hardcore ironman platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Hardleather body",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-4",
+            "ranged-attack": "+8",
+            "stab-defence": "+12",
+            "slash-defence": "+15",
+            "crush-defence": "+18",
+            "magic-defence": "+6",
+            "ranged-defence": "+15",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1131"
+    },
+    {
+        "item-name": "Infinity top",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+22",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+22",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6916"
+    },
+    {
+        "item-name": "Initiate hauberk",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+46",
+            "slash-defence": "+44",
+            "crush-defence": "+38",
+            "magic-defence": "-6",
+            "ranged-defence": "+44",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "5575"
+    },
+    {
+        "item-name": "Iron chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "-3",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1101"
+    },
+    {
+        "item-name": "Iron platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1115"
+    },
+    {
+        "item-name": "Iron platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12235"
+    },
+    {
+        "item-name": "Iron platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12225"
+    },
+    {
+        "item-name": "Ironman platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12811"
+    },
+    {
+        "item-name": "Jungle camo top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10057"
+    },
+    {
+        "item-name": "Karil's leathertop",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+47",
+            "slash-defence": "+42",
+            "crush-defence": "+50",
+            "magic-defence": "+65",
+            "ranged-defence": "+57",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4736"
+    },
+    {
+        "item-name": "Khazard armour",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+11",
+            "crush-defence": "+10",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "75"
+    },
+    {
+        "item-name": "Kyatt top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10037"
+    },
+    {
+        "item-name": "Larupia top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10043"
+    },
+    {
+        "item-name": "Leather body",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-2",
+            "ranged-attack": "+2",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+10",
+            "magic-defence": "+4",
+            "ranged-defence": "+9",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1129"
+    },
+    {
+        "item-name": "Lederhosen top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6180"
+    },
+    {
+        "item-name": "Light infinity top",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+22",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+22",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12420"
+    },
+    {
+        "item-name": "Light tuxedo jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19973"
+    },
+    {
+        "item-name": "Lumberjack top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10939"
+    },
+    {
+        "item-name": "Lunar torso",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+10",
+            "ranged-attack": "-10",
+            "stab-defence": "+34",
+            "slash-defence": "+22",
+            "crush-defence": "+40",
+            "magic-defence": "+12",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9097"
+    },
+    {
+        "item-name": "Menaphite purple top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6394"
+    },
+    {
+        "item-name": "Menaphite red top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6402"
+    },
+    {
+        "item-name": "Mime top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3058"
+    },
+    {
+        "item-name": "Mithril chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+25",
+            "slash-defence": "+35",
+            "crush-defence": "+42",
+            "magic-defence": "-3",
+            "ranged-defence": "+27",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1109"
+    },
+    {
+        "item-name": "Mithril platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+46",
+            "slash-defence": "+44",
+            "crush-defence": "+38",
+            "magic-defence": "-6",
+            "ranged-defence": "+44",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1121"
+    },
+    {
+        "item-name": "Mithril platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+46",
+            "slash-defence": "+44",
+            "crush-defence": "+38",
+            "magic-defence": "-6",
+            "ranged-defence": "+44",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12277"
+    },
+    {
+        "item-name": "Mithril platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+46",
+            "slash-defence": "+44",
+            "crush-defence": "+38",
+            "magic-defence": "-6",
+            "ranged-defence": "+44",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12287"
+    },
+    {
+        "item-name": "Monk's robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "544"
+    },
+    {
+        "item-name": "Monk's robe top (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20199"
+    },
+    {
+        "item-name": "Moonclan armour",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+5",
+            "ranged-attack": "-10",
+            "stab-defence": "+5",
+            "slash-defence": "+5",
+            "crush-defence": "+5",
+            "magic-defence": "+5",
+            "ranged-defence": "-10",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9070"
+    },
+    {
+        "item-name": "Mourner top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6065"
+    },
+    {
+        "item-name": "Mummy's body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20083"
+    },
+    {
+        "item-name": "Musketeer tabard",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12441"
+    },
+    {
+        "item-name": "Mystic robe top (blue)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+20",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+20",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Mystic robe top (dark)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+20",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+20",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4101"
+    },
+    {
+        "item-name": "Mystic robe top (light)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+20",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+20",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4111"
+    },
+    {
+        "item-name": "Obsidian platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "55",
+            "slash-defence": "78",
+            "crush-defence": "56",
+            "magic-defence": "-15",
+            "ranged-defence": "60",
+            "strength-bonus": "3",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Pink elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12339"
+    },
+    {
+        "item-name": "Pink elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12315"
+    },
+    {
+        "item-name": "Pink robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "636"
+    },
+    {
+        "item-name": "Plague jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "284"
+    },
+    {
+        "item-name": "Polar camo top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10065"
+    },
+    {
+        "item-name": "Priest gown (top)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Prince tunic",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6184"
+    },
+    {
+        "item-name": "Princess blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6186"
+    },
+    {
+        "item-name": "Proselyte hauberk",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+65",
+            "slash-defence": "+63",
+            "crush-defence": "+55",
+            "magic-defence": "-6",
+            "ranged-defence": "+63",
+            "strength-bonus": "0",
+            "prayer-bonus": "+8",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9674"
+    },
+    {
+        "item-name": "Prospector jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12014"
+    },
+    {
+        "item-name": "Purple elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10436"
+    },
+    {
+        "item-name": "Purple elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10416"
+    },
+    {
+        "item-name": "Purple naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8957"
+    },
+    {
+        "item-name": "Purple robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2936"
+    },
+    {
+        "item-name": "Pyromancer garb",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20704"
+    },
+    {
+        "item-name": "Rangers' tunic",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+15",
+            "stab-defence": "+6",
+            "slash-defence": "+9",
+            "crush-defence": "+12",
+            "magic-defence": "+6",
+            "ranged-defence": "+6",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12596"
+    },
+    {
+        "item-name": "Red d'hide body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+25",
+            "stab-defence": "+50",
+            "slash-defence": "+42",
+            "crush-defence": "+55",
+            "magic-defence": "+40",
+            "ranged-defence": "+50",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2501"
+    },
+    {
+        "item-name": "Red d'hide body (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+25",
+            "stab-defence": "+50",
+            "slash-defence": "+42",
+            "crush-defence": "+55",
+            "magic-defence": "+40",
+            "ranged-defence": "+50",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12327"
+    },
+    {
+        "item-name": "Red d'hide body (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+25",
+            "stab-defence": "+50",
+            "slash-defence": "+42",
+            "crush-defence": "+55",
+            "magic-defence": "+40",
+            "ranged-defence": "+50",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12331"
+    },
+    {
+        "item-name": "Red decorative body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+32",
+            "slash-defence": "+31",
+            "crush-defence": "+24",
+            "magic-defence": "-6",
+            "ranged-defence": "+31",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Red elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10424"
+    },
+    {
+        "item-name": "Red elegant shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10404"
+    },
+    {
+        "item-name": "Red naval shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8954"
+    },
+    {
+        "item-name": "Red robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2906"
+    },
+    {
+        "item-name": "Robe of elidinis (top)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Robe top of darkness",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+20",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+20",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20131"
+    },
+    {
+        "item-name": "Rock-shell plate",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6129"
+    },
+    {
+        "item-name": "Rogue top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+10",
+            "crush-defence": "+10",
+            "magic-defence": "+10",
+            "ranged-defence": "+10",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "5553"
+    },
+    {
+        "item-name": "Royal gown top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12393"
+    },
+    {
+        "item-name": "Rune chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+63",
+            "slash-defence": "+72",
+            "crush-defence": "+78",
+            "magic-defence": "-3",
+            "ranged-defence": "+65",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1113"
+    },
+    {
+        "item-name": "Rune platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1127"
+    },
+    {
+        "item-name": "Rune platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2615"
+    },
+    {
+        "item-name": "Rune platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2623"
+    },
+    {
+        "item-name": "Samurai shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+69",
+            "slash-defence": "+67",
+            "crush-defence": "+59",
+            "magic-defence": "+10",
+            "ranged-defence": "+67",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20038"
+    },
+    {
+        "item-name": "Santa jacket",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12888"
+    },
+    {
+        "item-name": "Saradomin d'hide",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10386"
+    },
+    {
+        "item-name": "Saradomin platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2661"
+    },
+    {
+        "item-name": "Saradomin robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10458"
+    },
+    {
+        "item-name": "Shade robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "5",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "546"
+    },
+    {
+        "item-name": "Shayzien platebody (1)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-5",
+            "ranged-attack": "0",
+            "stab-defence": "+16",
+            "slash-defence": "+20",
+            "crush-defence": "+22",
+            "magic-defence": "-2",
+            "ranged-defence": "+16",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13361"
+    },
+    {
+        "item-name": "Shayzien platebody (2)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-7",
+            "ranged-attack": "0",
+            "stab-defence": "+20",
+            "slash-defence": "+25",
+            "crush-defence": "+30",
+            "magic-defence": "-3",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13366"
+    },
+    {
+        "item-name": "Shayzien platebody (3)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-8",
+            "ranged-attack": "0",
+            "stab-defence": "+25",
+            "slash-defence": "+32",
+            "crush-defence": "+35",
+            "magic-defence": "-3",
+            "ranged-defence": "+22",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13371"
+    },
+    {
+        "item-name": "Shayzien platebody (4)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-9",
+            "ranged-attack": "0",
+            "stab-defence": "+28",
+            "slash-defence": "+35",
+            "crush-defence": "+37",
+            "magic-defence": "-4",
+            "ranged-defence": "+25",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13376"
+    },
+    {
+        "item-name": "Shayzien platebody (5)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "0",
+            "stab-defence": "+30",
+            "slash-defence": "+37",
+            "crush-defence": "+40",
+            "magic-defence": "-4",
+            "ranged-defence": "+27",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13381"
+    },
+    {
+        "item-name": "Shirt (brown)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Silly jester top",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+5",
+            "ranged-defence": "-5",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10837"
+    },
+    {
+        "item-name": "Skeletal top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+8",
+            "ranged-attack": "-10",
+            "stab-defence": "+35",
+            "slash-defence": "+25",
+            "crush-defence": "+42",
+            "magic-defence": "+15",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6139"
+    },
+    {
+        "item-name": "Skeleton shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9924"
+    },
+    {
+        "item-name": "Slave shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1844"
+    },
+    {
+        "item-name": "Snakeskin body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-5",
+            "ranged-attack": "+12",
+            "stab-defence": "+25",
+            "slash-defence": "+28",
+            "crush-defence": "+32",
+            "magic-defence": "+15",
+            "ranged-defence": "+35",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6322"
+    },
+    {
+        "item-name": "Spined body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "+15",
+            "stab-defence": "+40",
+            "slash-defence": "+32",
+            "crush-defence": "+45",
+            "magic-defence": "+20",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6133"
+    },
+    {
+        "item-name": "Splitbark body",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+10",
+            "ranged-attack": "-10",
+            "stab-defence": "+36",
+            "slash-defence": "+26",
+            "crush-defence": "+42",
+            "magic-defence": "+15",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3387"
+    },
+    {
+        "item-name": "Steel chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+17",
+            "slash-defence": "+25",
+            "crush-defence": "+30",
+            "magic-defence": "-3",
+            "ranged-defence": "+19",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1105"
+    },
+    {
+        "item-name": "Steel platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "32",
+            "slash-defence": "31",
+            "crush-defence": "24",
+            "magic-defence": "-6",
+            "ranged-defence": "31",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1119"
+    },
+    {
+        "item-name": "Steel platebody (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+32",
+            "slash-defence": "+31",
+            "crush-defence": "+24",
+            "magic-defence": "-6",
+            "ranged-defence": "+31",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20169"
+    },
+    {
+        "item-name": "Steel platebody (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+32",
+            "slash-defence": "+31",
+            "crush-defence": "+24",
+            "magic-defence": "-6",
+            "ranged-defence": "+31",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20184"
+    },
+    {
+        "item-name": "Stripy pirate shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7110"
+    },
+    {
+        "item-name": "Studded body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-4",
+            "ranged-attack": "+8",
+            "stab-defence": "+18",
+            "slash-defence": "+25",
+            "crush-defence": "+22",
+            "magic-defence": "+8",
+            "ranged-defence": "+25",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1133"
+    },
+    {
+        "item-name": "Studded body (g)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-4",
+            "ranged-attack": "+8",
+            "stab-defence": "+18",
+            "slash-defence": "+25",
+            "crush-defence": "+22",
+            "magic-defence": "+8",
+            "ranged-defence": "+25",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7362"
+    },
+    {
+        "item-name": "Studded body (t)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-4",
+            "ranged-attack": "+8",
+            "stab-defence": "+18",
+            "slash-defence": "+25",
+            "crush-defence": "+22",
+            "magic-defence": "+8",
+            "ranged-defence": "+25",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7364"
+    },
+    {
+        "item-name": "Teal robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2926"
+    },
+    {
+        "item-name": "Torag's platebody",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+122",
+            "slash-defence": "+120",
+            "crush-defence": "+107",
+            "magic-defence": "-6",
+            "ranged-defence": "+132",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4749"
+    },
+    {
+        "item-name": "Turquoise robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "644"
+    },
+    {
+        "item-name": "Ultimate ironman platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+21",
+            "slash-defence": "+20",
+            "crush-defence": "+12",
+            "magic-defence": "-6",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12814"
+    },
+    {
+        "item-name": "Varrock armour 1",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+32",
+            "slash-defence": "+31",
+            "crush-defence": "+24",
+            "magic-defence": "-6",
+            "ranged-defence": "+31",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "+0",
+            "magic-strength": "+0"
+        },
+        "id": "13104"
+    },
+    {
+        "item-name": "Varrock armour 2",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+41",
+            "slash-defence": "+40",
+            "crush-defence": "+30",
+            "magic-defence": "-6",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13105"
+    },
+    {
+        "item-name": "Varrock armour 3",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+46",
+            "slash-defence": "+44",
+            "crush-defence": "+38",
+            "magic-defence": "-6",
+            "ranged-defence": "+44",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13106"
+    },
+    {
+        "item-name": "Varrock armour 4",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "65",
+            "slash-defence": "63",
+            "crush-defence": "55",
+            "magic-defence": "-6",
+            "ranged-defence": "63",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13107"
+    },
+    {
+        "item-name": "Verac's brassard",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-6",
+            "ranged-attack": "-2",
+            "stab-defence": "+81",
+            "slash-defence": "+95",
+            "crush-defence": "+85",
+            "magic-defence": "+0",
+            "ranged-defence": "+81",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+5",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4757"
+    },
+    {
+        "item-name": "Void knight top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+45",
+            "slash-defence": "+45",
+            "crush-defence": "+45",
+            "magic-defence": "+45",
+            "ranged-defence": "+45",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8839"
+    },
+    {
+        "item-name": "Vyrewatch top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9634"
+    },
+    {
+        "item-name": "White apron",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1005"
+    },
+    {
+        "item-name": "White chainbody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-15",
+            "ranged-attack": "0",
+            "stab-defence": "+22",
+            "slash-defence": "+32",
+            "crush-defence": "+39",
+            "magic-defence": "-3",
+            "ranged-defence": "+24",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6615"
+    },
+    {
+        "item-name": "White decorative body",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+46",
+            "slash-defence": "+44",
+            "crush-defence": "+38",
+            "magic-defence": "-6",
+            "ranged-defence": "+44",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "White elegant blouse",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10420"
+    },
+    {
+        "item-name": "White platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+41",
+            "slash-defence": "+40",
+            "crush-defence": "+30",
+            "magic-defence": "-6",
+            "ranged-defence": "+40",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6617"
+    },
+    {
+        "item-name": "Wood camo top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+15",
+            "crush-defence": "+19",
+            "magic-defence": "0",
+            "ranged-defence": "+12",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10053"
+    },
+    {
+        "item-name": "Xerician top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+12",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+10",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13387"
+    },
+    {
+        "item-name": "Yak-hide armour (top)",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-5",
+            "ranged-attack": "+0",
+            "stab-defence": "+25",
+            "slash-defence": "+20",
+            "crush-defence": "+15",
+            "magic-defence": "-2",
+            "ranged-defence": "+25",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Yellow robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2916"
+    },
+    {
+        "item-name": "Zamorak d'hide",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-15",
+            "ranged-attack": "+30",
+            "stab-defence": "+55",
+            "slash-defence": "+47",
+            "crush-defence": "+60",
+            "magic-defence": "+50",
+            "ranged-defence": "+55",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10370"
+    },
+    {
+        "item-name": "Zamorak platebody",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-30",
+            "ranged-attack": "-10",
+            "stab-defence": "+82",
+            "slash-defence": "+80",
+            "crush-defence": "+72",
+            "magic-defence": "-6",
+            "ranged-defence": "+80",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2653"
+    },
+    {
+        "item-name": "Zamorak robe (top)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Zamorak robe top",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10460"
+    },
+    {
+        "item-name": "Zombie shirt",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7592"
+    }
+]

@@ -1,0 +1,2038 @@
+[
+    {
+        "item-name": "Adamant boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+10",
+            "slash-defence": "+11",
+            "crush-defence": "+12",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4129"
+    },
+    {
+        "item-name": "Ancient d'hide boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+7",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19921"
+    },
+    {
+        "item-name": "Angler boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13261"
+    },
+    {
+        "item-name": "Ankou socks",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20107"
+    },
+    {
+        "item-name": "Antisanta boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12896"
+    },
+    {
+        "item-name": "Armadyl d'hide boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+7",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19930"
+    },
+    {
+        "item-name": "Bandos boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-5",
+            "ranged-attack": "-3",
+            "stab-defence": "+17",
+            "slash-defence": "+18",
+            "crush-defence": "+19",
+            "magic-defence": "+0",
+            "ranged-defence": "+15",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11836"
+    },
+    {
+        "item-name": "Bandos d'hide boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+7",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19924"
+    },
+    {
+        "item-name": "Black boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+7",
+            "slash-defence": "+8",
+            "crush-defence": "+9",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4125"
+    },
+    {
+        "item-name": "Blue boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "630"
+    },
+    {
+        "item-name": "Boots of darkness",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20140"
+    },
+    {
+        "item-name": "Boots of lightness",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "88"
+    },
+    {
+        "item-name": "Bronze boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+1",
+            "slash-defence": "+2",
+            "crush-defence": "+3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4119"
+    },
+    {
+        "item-name": "Builder's boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+0",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10865"
+    },
+    {
+        "item-name": "Bunny feet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13182"
+    },
+    {
+        "item-name": "Chicken feet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11016"
+    },
+    {
+        "item-name": "Citizen shoes",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "2",
+            "crush-defence": "2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9644"
+    },
+    {
+        "item-name": "Climbing boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+0",
+            "ranged-defence": "+0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3105"
+    },
+    {
+        "item-name": "Cow shoes",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12959"
+    },
+    {
+        "item-name": "Cream boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "632"
+    },
+    {
+        "item-name": "Dark tuxedo shoes",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19967"
+    },
+    {
+        "item-name": "Desert boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1837"
+    },
+    {
+        "item-name": "Dragon boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+16",
+            "slash-defence": "+17",
+            "crush-defence": "+18",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+4",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11840"
+    },
+    {
+        "item-name": "Eternal boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+8",
+            "ranged-attack": "0",
+            "stab-defence": "+5",
+            "slash-defence": "+5",
+            "crush-defence": "+5",
+            "magic-defence": "+8",
+            "ranged-defence": "+5",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13235"
+    },
+    {
+        "item-name": "Evil chicken feet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20433"
+    },
+    {
+        "item-name": "Fancy boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+1",
+            "slash-defence": "+2",
+            "crush-defence": "+3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9005"
+    },
+    {
+        "item-name": "Farmer's boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13644"
+    },
+    {
+        "item-name": "Fighting boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+1",
+            "slash-defence": "+2",
+            "crush-defence": "+3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9006"
+    },
+    {
+        "item-name": "Flippers",
+        "stats": {
+            "stab-attack": "-2",
+            "slash-attack": "-2",
+            "crush-attack": "-2",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "1",
+            "crush-defence": "1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6666"
+    },
+    {
+        "item-name": "Fremennik boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3791"
+    },
+    {
+        "item-name": "Fremennik sea boots 1",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+2",
+            "slash-defence": "+3",
+            "crush-defence": "+4",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13129"
+    },
+    {
+        "item-name": "Fremennik sea boots 2",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+5",
+            "slash-defence": "+6",
+            "crush-defence": "+7",
+            "magic-defence": "+0",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13130"
+    },
+    {
+        "item-name": "Fremennik sea boots 3",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+7",
+            "slash-defence": "+8",
+            "crush-defence": "+9",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13131"
+    },
+    {
+        "item-name": "Fremennik sea boots 4",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+10",
+            "slash-defence": "+11",
+            "crush-defence": "+12",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13132"
+    },
+    {
+        "item-name": "Frog-leather boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-8",
+            "ranged-attack": "+2",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+1",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10958"
+    },
+    {
+        "item-name": "Gardening boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "5345"
+    },
+    {
+        "item-name": "Ghostly boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6106"
+    },
+    {
+        "item-name": "Gilded boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+12",
+            "slash-defence": "+13",
+            "crush-defence": "+14",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12391"
+    },
+    {
+        "item-name": "Graceful boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11860"
+    },
+    {
+        "item-name": "Granite boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+12",
+            "slash-defence": "+13",
+            "crush-defence": "+14",
+            "magic-defence": "0",
+            "ranged-defence": "+8",
+            "strength-bonus": "+3",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Gravedigger boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13286"
+    },
+    {
+        "item-name": "Green boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "628"
+    },
+    {
+        "item-name": "Grey boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2894"
+    },
+    {
+        "item-name": "Guardian boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+32",
+            "slash-defence": "+32",
+            "crush-defence": "+32",
+            "magic-defence": "-3",
+            "ranged-defence": "+24",
+            "strength-bonus": "+3",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Guthix d'hide boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+7",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19927"
+    },
+    {
+        "item-name": "Ham boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4310"
+    },
+    {
+        "item-name": "Holy sandals",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12598"
+    },
+    {
+        "item-name": "Infinity boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "5",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "5",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6920"
+    },
+    {
+        "item-name": "Insulated boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "+1",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7159"
+    },
+    {
+        "item-name": "Iron boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+2",
+            "slash-defence": "+3",
+            "crush-defence": "+4",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4121"
+    },
+    {
+        "item-name": "Leather boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1061"
+    },
+    {
+        "item-name": "Light tuxedo shoes",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19982"
+    },
+    {
+        "item-name": "Lumberjack boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10933"
+    },
+    {
+        "item-name": "Lunar boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+2",
+            "ranged-attack": "-1",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+1",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9100"
+    },
+    {
+        "item-name": "Mime boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3061"
+    },
+    {
+        "item-name": "Mithril boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+10",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4127"
+    },
+    {
+        "item-name": "Moonclan boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "-5",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+2",
+            "ranged-defence": "-5",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9073"
+    },
+    {
+        "item-name": "Mourner boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6069"
+    },
+    {
+        "item-name": "Mummy's feet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20092"
+    },
+    {
+        "item-name": "Mystic boots (blue)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Mystic boots (dark)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4107"
+    },
+    {
+        "item-name": "Mystic boots (light)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4117"
+    },
+    {
+        "item-name": "Pegasian boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-12",
+            "ranged-attack": "+12",
+            "stab-defence": "+5",
+            "slash-defence": "+5",
+            "crush-defence": "+5",
+            "magic-defence": "+5",
+            "ranged-defence": "+5",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13237"
+    },
+    {
+        "item-name": "Pink boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "626"
+    },
+    {
+        "item-name": "Pirate boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7114"
+    },
+    {
+        "item-name": "Primordial boots",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "-4",
+            "ranged-attack": "-1",
+            "stab-defence": "+22",
+            "slash-defence": "+22",
+            "crush-defence": "+22",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+5",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13239"
+    },
+    {
+        "item-name": "Prospector boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12016"
+    },
+    {
+        "item-name": "Purple boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2934"
+    },
+    {
+        "item-name": "Pyromancer boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20710"
+    },
+    {
+        "item-name": "Ranger boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+8",
+            "stab-defence": "+2",
+            "slash-defence": "+3",
+            "crush-defence": "+4",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2577"
+    },
+    {
+        "item-name": "Red boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2904"
+    },
+    {
+        "item-name": "Rock-shell boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6145"
+    },
+    {
+        "item-name": "Rogue boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+2",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "5557"
+    },
+    {
+        "item-name": "Rune boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+12",
+            "slash-defence": "+13",
+            "crush-defence": "+14",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4131"
+    },
+    {
+        "item-name": "Runner boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+8",
+            "slash-defence": "+8",
+            "crush-defence": "+8",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10552"
+    },
+    {
+        "item-name": "Samurai boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+11",
+            "slash-defence": "+12",
+            "crush-defence": "+13",
+            "magic-defence": "+1",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20047"
+    },
+    {
+        "item-name": "Santa boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12891"
+    },
+    {
+        "item-name": "Saradomin d'hide boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+7",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19933"
+    },
+    {
+        "item-name": "Shayzien boots (1)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-2",
+            "ranged-attack": "-1",
+            "stab-defence": "+1",
+            "slash-defence": "+2",
+            "crush-defence": "+3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13358"
+    },
+    {
+        "item-name": "Shayzien boots (2)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-2",
+            "ranged-attack": "-1",
+            "stab-defence": "+2",
+            "slash-defence": "+3",
+            "crush-defence": "+4",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13363"
+    },
+    {
+        "item-name": "Shayzien boots (3)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-2",
+            "ranged-attack": "-1",
+            "stab-defence": "+4",
+            "slash-defence": "+5",
+            "crush-defence": "+6",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13368"
+    },
+    {
+        "item-name": "Shayzien boots (4)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-2",
+            "ranged-attack": "-1",
+            "stab-defence": "+5",
+            "slash-defence": "+6",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13373"
+    },
+    {
+        "item-name": "Shayzien boots (5)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-2",
+            "ranged-attack": "-1",
+            "stab-defence": "+5",
+            "slash-defence": "+7",
+            "crush-defence": "+8",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13378"
+    },
+    {
+        "item-name": "Shoes (Spirits of the Elid)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Silly jester boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+5",
+            "ranged-defence": "-5",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10839"
+    },
+    {
+        "item-name": "Skeletal boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6147"
+    },
+    {
+        "item-name": "Skeleton boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9921"
+    },
+    {
+        "item-name": "Slave boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1846"
+    },
+    {
+        "item-name": "Snakeskin boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "-10",
+            "ranged-attack": "+3",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+1",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6328"
+    },
+    {
+        "item-name": "Spiked boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+0",
+            "ranged-defence": "+0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3107"
+    },
+    {
+        "item-name": "Spined boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6143"
+    },
+    {
+        "item-name": "Splitbark boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "-1",
+            "stab-defence": "+3",
+            "slash-defence": "+2",
+            "crush-defence": "+4",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3393"
+    },
+    {
+        "item-name": "Steel boots",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+5",
+            "slash-defence": "+6",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4123"
+    },
+    {
+        "item-name": "Teal boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2924"
+    },
+    {
+        "item-name": "Turquoise boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "634"
+    },
+    {
+        "item-name": "Villager sandals",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "0",
+            "magic-strength": "0"
+        },
+        "id": "6349"
+    },
+    {
+        "item-name": "Vyrewatch shoes",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9638"
+    },
+    {
+        "item-name": "White boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+7",
+            "slash-defence": "+8",
+            "crush-defence": "+9",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6619"
+    },
+    {
+        "item-name": "Wizard boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2579"
+    },
+    {
+        "item-name": "Yellow boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2914"
+    },
+    {
+        "item-name": "Zamorak d'hide boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+7",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19936"
+    },
+    {
+        "item-name": "Zombie boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7596"
+    }
+]

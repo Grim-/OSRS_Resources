@@ -1,0 +1,2349 @@
+[
+    {
+        "item-name": "3rd age vambraces",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+9",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10336"
+    },
+    {
+        "item-name": "Abyssal bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Adamant gloves",
+        "stats": {
+            "stab-attack": "+7",
+            "slash-attack": "+7",
+            "crush-attack": "+7",
+            "magic-attack": "+4",
+            "ranged-attack": "+7",
+            "stab-defence": "+7",
+            "slash-defence": "+7",
+            "crush-defence": "+7",
+            "magic-defence": "+4",
+            "ranged-defence": "+7",
+            "strength-bonus": "+7",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7459"
+    },
+    {
+        "item-name": "Ancient bracers",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12490"
+    },
+    {
+        "item-name": "Ankou gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20101"
+    },
+    {
+        "item-name": "Antisanta gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12895"
+    },
+    {
+        "item-name": "Armadyl bracers",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12506"
+    },
+    {
+        "item-name": "Bandos bracers",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12498"
+    },
+    {
+        "item-name": "Barrows gloves",
+        "stats": {
+            "stab-attack": "+12",
+            "slash-attack": "+12",
+            "crush-attack": "+12",
+            "magic-attack": "+6",
+            "ranged-attack": "+12",
+            "stab-defence": "+12",
+            "slash-defence": "+12",
+            "crush-defence": "+12",
+            "magic-defence": "+6",
+            "ranged-defence": "+12",
+            "strength-bonus": "+12",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7462"
+    },
+    {
+        "item-name": "Black d'hide vamb",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2491"
+    },
+    {
+        "item-name": "Black gloves",
+        "stats": {
+            "stab-attack": "+5",
+            "slash-attack": "+5",
+            "crush-attack": "+5",
+            "magic-attack": "+3",
+            "ranged-attack": "+5",
+            "stab-defence": "+5",
+            "slash-defence": "+5",
+            "crush-defence": "+5",
+            "magic-defence": "+3",
+            "ranged-defence": "+5",
+            "strength-bonus": "+5",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7457"
+    },
+    {
+        "item-name": "Black spiky vambs",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10085"
+    },
+    {
+        "item-name": "Blue d'hide vamb",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+9",
+            "stab-defence": "+4",
+            "slash-defence": "+3",
+            "crush-defence": "+5",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2487"
+    },
+    {
+        "item-name": "Blue spiky vambs",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+9",
+            "stab-defence": "+4",
+            "slash-defence": "+3",
+            "crush-defence": "+5",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10081"
+    },
+    {
+        "item-name": "Bracelet of clay",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11074"
+    },
+    {
+        "item-name": "Bracelet of slaughter",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Bronze gloves",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "+1",
+            "ranged-attack": "+2",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+1",
+            "ranged-defence": "+2",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7454"
+    },
+    {
+        "item-name": "Bunny paws",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13665"
+    },
+    {
+        "item-name": "Castle wars bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Chaos gauntlets",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "777"
+    },
+    {
+        "item-name": "Clue hunter boots",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "1",
+            "crush-defence": "1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19695"
+    },
+    {
+        "item-name": "Clue hunter gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "1",
+            "crush-defence": "2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19691"
+    },
+    {
+        "item-name": "Combat bracelet",
+        "stats": {
+            "stab-attack": "+7",
+            "slash-attack": "+7",
+            "crush-attack": "+7",
+            "magic-attack": "+3",
+            "ranged-attack": "+7",
+            "stab-defence": "+5",
+            "slash-defence": "+5",
+            "crush-defence": "+5",
+            "magic-defence": "+3",
+            "ranged-defence": "+5",
+            "strength-bonus": "+6",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11126"
+    },
+    {
+        "item-name": "Cooking gauntlets",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "775"
+    },
+    {
+        "item-name": "Cow gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12958"
+    },
+    {
+        "item-name": "Crab claw",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "3",
+            "slash-defence": "4",
+            "crush-defence": "2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7537"
+    },
+    {
+        "item-name": "Crabclaw hook",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "3",
+            "slash-defence": "5",
+            "crush-defence": "3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8929"
+    },
+    {
+        "item-name": "Dark tuxedo cuffs",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19961"
+    },
+    {
+        "item-name": "Diamond bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11092"
+    },
+    {
+        "item-name": "Dragon gloves",
+        "stats": {
+            "stab-attack": "+9",
+            "slash-attack": "+9",
+            "crush-attack": "+9",
+            "magic-attack": "+5",
+            "ranged-attack": "+9",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+5",
+            "ranged-defence": "+9",
+            "strength-bonus": "+9",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7461"
+    },
+    {
+        "item-name": "Dragonstone bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11115"
+    },
+    {
+        "item-name": "Emerald bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11076"
+    },
+    {
+        "item-name": "Expeditious bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Expert mining gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Flamtaer bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Fremennik gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3799"
+    },
+    {
+        "item-name": "Ghostly gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6110"
+    },
+    {
+        "item-name": "Gloves of darkness",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20134"
+    },
+    {
+        "item-name": "Gloves of silence",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10075"
+    },
+    {
+        "item-name": "Gold bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11068"
+    },
+    {
+        "item-name": "Goldsmith gauntlets",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "776"
+    },
+    {
+        "item-name": "Graceful gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11858"
+    },
+    {
+        "item-name": "Granite gloves",
+        "stats": {
+            "stab-attack": "+5",
+            "slash-attack": "+5",
+            "crush-attack": "+9",
+            "magic-attack": "-3",
+            "ranged-attack": "-1",
+            "stab-defence": "+8",
+            "slash-defence": "+8",
+            "crush-defence": "+8",
+            "magic-defence": "-3",
+            "ranged-defence": "+5",
+            "strength-bonus": "+7",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Gravedigger gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13287"
+    },
+    {
+        "item-name": "Green d'hide vamb",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+8",
+            "stab-defence": "+3",
+            "slash-defence": "+2",
+            "crush-defence": "+4",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1065"
+    },
+    {
+        "item-name": "Green spiky vambs",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+8",
+            "stab-defence": "+3",
+            "slash-defence": "+2",
+            "crush-defence": "+4",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10079"
+    },
+    {
+        "item-name": "Grey gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2902"
+    },
+    {
+        "item-name": "Guthix bracers",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10376"
+    },
+    {
+        "item-name": "Ham gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4308"
+    },
+    {
+        "item-name": "Hardleather gloves",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7453"
+    },
+    {
+        "item-name": "Holy wraps",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19997"
+    },
+    {
+        "item-name": "Ice gloves",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+3",
+            "crush-defence": "+4",
+            "magic-defence": "+0",
+            "ranged-defence": "+2",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1580"
+    },
+    {
+        "item-name": "Infinity gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+5",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+5",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6922"
+    },
+    {
+        "item-name": "Inoculation bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11088"
+    },
+    {
+        "item-name": "Iron gloves",
+        "stats": {
+            "stab-attack": "+3",
+            "slash-attack": "+3",
+            "crush-attack": "+3",
+            "magic-attack": "+2",
+            "ranged-attack": "+3",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+2",
+            "ranged-defence": "+3",
+            "strength-bonus": "+3",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7455"
+    },
+    {
+        "item-name": "Jade bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Karamja gloves 1",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11136"
+    },
+    {
+        "item-name": "Karamja gloves 2",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11138"
+    },
+    {
+        "item-name": "Karamja gloves 3",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11140"
+    },
+    {
+        "item-name": "Karamja gloves 4",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13103"
+    },
+    {
+        "item-name": "Klank's gauntlets",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1495"
+    },
+    {
+        "item-name": "Leather gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1059"
+    },
+    {
+        "item-name": "Leather vambraces",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "+4",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1063"
+    },
+    {
+        "item-name": "Light tuxedo cuffs",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19976"
+    },
+    {
+        "item-name": "Lunar gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "-1",
+            "stab-defence": "+2",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9099"
+    },
+    {
+        "item-name": "Mime gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3060"
+    },
+    {
+        "item-name": "Mining gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Mithril gloves",
+        "stats": {
+            "stab-attack": "+6",
+            "slash-attack": "+6",
+            "crush-attack": "+6",
+            "magic-attack": "+3",
+            "ranged-attack": "+6",
+            "stab-defence": "+6",
+            "slash-defence": "+6",
+            "crush-defence": "+6",
+            "magic-defence": "+3",
+            "ranged-defence": "+6",
+            "strength-bonus": "+6",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7458"
+    },
+    {
+        "item-name": "Moonclan gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "-5",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+2",
+            "ranged-defence": "-5",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9072"
+    },
+    {
+        "item-name": "Mourner gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6068"
+    },
+    {
+        "item-name": "Mummy's hands",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20086"
+    },
+    {
+        "item-name": "Mystic gloves (blue)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Mystic gloves (dark)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4105"
+    },
+    {
+        "item-name": "Mystic gloves (light)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+3",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+3",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4115"
+    },
+    {
+        "item-name": "Onyx bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11130"
+    },
+    {
+        "item-name": "Opal bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Penance gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+3",
+            "crush-defence": "+4",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10553"
+    },
+    {
+        "item-name": "Pirate's hook",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+5",
+            "crush-defence": "+3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2997"
+    },
+    {
+        "item-name": "Purple gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2942"
+    },
+    {
+        "item-name": "Ranger gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+1",
+            "slash-defence": "+2",
+            "crush-defence": "+1",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19994"
+    },
+    {
+        "item-name": "Red d'hide vamb",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+10",
+            "stab-defence": "+5",
+            "slash-defence": "+4",
+            "crush-defence": "+6",
+            "magic-defence": "+6",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2489"
+    },
+    {
+        "item-name": "Red gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2912"
+    },
+    {
+        "item-name": "Red spiky vambs",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+10",
+            "stab-defence": "+5",
+            "slash-defence": "+4",
+            "crush-defence": "+6",
+            "magic-defence": "+6",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10083"
+    },
+    {
+        "item-name": "Regen bracelet",
+        "stats": {
+            "stab-attack": "+8",
+            "slash-attack": "+8",
+            "crush-attack": "+8",
+            "magic-attack": "+3",
+            "ranged-attack": "+7",
+            "stab-defence": "+6",
+            "slash-defence": "+6",
+            "crush-defence": "+6",
+            "magic-defence": "+3",
+            "ranged-defence": "+6",
+            "strength-bonus": "+7",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11133"
+    },
+    {
+        "item-name": "Rock-shell gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6151"
+    },
+    {
+        "item-name": "Rogue gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+2",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "5556"
+    },
+    {
+        "item-name": "Ruby bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11085"
+    },
+    {
+        "item-name": "Rune gloves",
+        "stats": {
+            "stab-attack": "+8",
+            "slash-attack": "+8",
+            "crush-attack": "+8",
+            "magic-attack": "+4",
+            "ranged-attack": "+8",
+            "stab-defence": "+8",
+            "slash-defence": "+8",
+            "crush-defence": "+8",
+            "magic-defence": "+4",
+            "ranged-defence": "+8",
+            "strength-bonus": "+8",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7460"
+    },
+    {
+        "item-name": "Samurai gloves",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "+2",
+            "ranged-attack": "+2",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20041"
+    },
+    {
+        "item-name": "Santa gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12890"
+    },
+    {
+        "item-name": "Sapphire bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11071"
+    },
+    {
+        "item-name": "Saradomin bracers",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10384"
+    },
+    {
+        "item-name": "Shayzien gloves (1)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-1",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+1",
+            "magic-defence": "-1",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13357"
+    },
+    {
+        "item-name": "Shayzien gloves (2)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "+1",
+            "magic-attack": "-1",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+1",
+            "magic-defence": "-1",
+            "ranged-defence": "0",
+            "strength-bonus": "+1",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13362"
+    },
+    {
+        "item-name": "Shayzien gloves (3)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "+2",
+            "magic-attack": "-1",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+1",
+            "magic-defence": "-1",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13367"
+    },
+    {
+        "item-name": "Shayzien gloves (4)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "+2",
+            "magic-attack": "-1",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "-1",
+            "ranged-defence": "+1",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13372"
+    },
+    {
+        "item-name": "Shayzien gloves (5)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "+2",
+            "magic-attack": "-1",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+2",
+            "crush-defence": "+3",
+            "magic-defence": "-1",
+            "ranged-defence": "+2",
+            "strength-bonus": "+3",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13377"
+    },
+    {
+        "item-name": "Skeletal gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6153"
+    },
+    {
+        "item-name": "Skeleton gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9922"
+    },
+    {
+        "item-name": "Slayer gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+4",
+            "slash-defence": "+5",
+            "crush-defence": "+3",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6708"
+    },
+    {
+        "item-name": "Snakeskin vambraces",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-5",
+            "ranged-attack": "+6",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "+1",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6330"
+    },
+    {
+        "item-name": "Spiky vambraces",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "+4",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10077"
+    },
+    {
+        "item-name": "Spined gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6149"
+    },
+    {
+        "item-name": "Splitbark gauntlets",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "-1",
+            "stab-defence": "+3",
+            "slash-defence": "+2",
+            "crush-defence": "+4",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3391"
+    },
+    {
+        "item-name": "Steel gauntlets",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "+2",
+            "crush-attack": "+2",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+8",
+            "slash-defence": "+9",
+            "crush-defence": "+7",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+2",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "778"
+    },
+    {
+        "item-name": "Steel gloves",
+        "stats": {
+            "stab-attack": "+4",
+            "slash-attack": "+4",
+            "crush-attack": "+4",
+            "magic-attack": "+2",
+            "ranged-attack": "+4",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+2",
+            "ranged-defence": "+4",
+            "strength-bonus": "+4",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7456"
+    },
+    {
+        "item-name": "Superior mining gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Teal gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2932"
+    },
+    {
+        "item-name": "Topaz bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Tormented bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+10",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": "5"
+        },
+        "id": "19544"
+    },
+    {
+        "item-name": "Villager armband",
+        "stats": {
+            "stab-attack": "",
+            "slash-attack": "",
+            "crush-attack": "",
+            "magic-attack": "",
+            "ranged-attack": "",
+            "stab-defence": "",
+            "slash-defence": "",
+            "crush-defence": "",
+            "magic-defence": "",
+            "ranged-defence": "",
+            "strength-bonus": "",
+            "prayer-bonus": "",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6347"
+    },
+    {
+        "item-name": "Void knight gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+6",
+            "slash-defence": "+6",
+            "crush-defence": "+6",
+            "magic-defence": "+4",
+            "ranged-defence": "+6",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "8842"
+    },
+    {
+        "item-name": "Warm gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20712"
+    },
+    {
+        "item-name": "White gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6629"
+    },
+    {
+        "item-name": "Yellow gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2922"
+    },
+    {
+        "item-name": "Zamorak bracers",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "-10",
+            "ranged-attack": "+11",
+            "stab-defence": "+6",
+            "slash-defence": "+5",
+            "crush-defence": "+7",
+            "magic-defence": "+8",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10368"
+    },
+    {
+        "item-name": "Zenyte bracelet",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19492"
+    },
+    {
+        "item-name": "Zombie gloves",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7595"
+    }
+]

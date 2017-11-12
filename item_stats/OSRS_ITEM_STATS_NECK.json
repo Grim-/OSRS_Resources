@@ -1,0 +1,2035 @@
+[{
+	"item-name": "'perfect' necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "10th squad sigil",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "3rd age amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+15",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+10",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of accuracy",
+	"stats": {
+		"stab-attack": "+4",
+		"slash-attack": "+4",
+		"crush-attack": "+4",
+		"magic-attack": "+4",
+		"ranged-attack": "+4",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of bounty",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of chemistry",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of defence",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+7",
+		"slash-defence": "+7",
+		"crush-defence": "+7",
+		"magic-defence": "+7",
+		"ranged-defence": "+7",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of eternal glory",
+	"stats": {
+		"stab-attack": "+10",
+		"slash-attack": "+10",
+		"crush-attack": "+10",
+		"magic-attack": "+10",
+		"ranged-attack": "+10",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "+3",
+		"ranged-defence": "+3",
+		"strength-bonus": "+6",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of fury",
+	"stats": {
+		"stab-attack": "+10",
+		"slash-attack": "+10",
+		"crush-attack": "+10",
+		"magic-attack": "+10",
+		"ranged-attack": "+10",
+		"stab-defence": "+15",
+		"slash-defence": "+15",
+		"crush-defence": "+15",
+		"magic-defence": "+15",
+		"ranged-defence": "+15",
+		"strength-bonus": "+8",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of fury (or)",
+	"stats": {
+		"stab-attack": "+10",
+		"slash-attack": "+10",
+		"crush-attack": "+10",
+		"magic-attack": "+10",
+		"ranged-attack": "+10",
+		"stab-defence": "+15",
+		"slash-defence": "+15",
+		"crush-defence": "+15",
+		"magic-defence": "+15",
+		"ranged-defence": "+15",
+		"strength-bonus": "+8",
+		"prayer-bonus": "+5",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of glory",
+	"stats": {
+		"stab-attack": "+10",
+		"slash-attack": "+10",
+		"crush-attack": "+10",
+		"magic-attack": "+10",
+		"ranged-attack": "+10",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "+3",
+		"ranged-defence": "+3",
+		"strength-bonus": "+6",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of glory (t)",
+	"stats": {
+		"stab-attack": "+10",
+		"slash-attack": "+10",
+		"crush-attack": "+10",
+		"magic-attack": "+10",
+		"ranged-attack": "+10",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "+3",
+		"ranged-defence": "+3",
+		"strength-bonus": "+6",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of magic",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+10",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of magic (t)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+10",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of nature",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of power",
+	"stats": {
+		"stab-attack": "+6",
+		"slash-attack": "+6",
+		"crush-attack": "+6",
+		"magic-attack": "+6",
+		"ranged-attack": "+6",
+		"stab-defence": "+6",
+		"slash-defence": "+6",
+		"crush-defence": "+6",
+		"magic-defence": "+6",
+		"ranged-defence": "+6",
+		"strength-bonus": "+6",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of strength",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "+10",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of the damned",
+	"stats": {
+		"stab-attack": "+10",
+		"slash-attack": "+10",
+		"crush-attack": "+10",
+		"magic-attack": "+10",
+		"ranged-attack": "+10",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "+3",
+		"ranged-defence": "+3",
+		"strength-bonus": "+6",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of torture",
+	"stats": {
+		"stab-attack": "+15",
+		"slash-attack": "+15",
+		"crush-attack": "+15",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "+10",
+		"prayer-bonus": "+2",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Amulet of torture (or)",
+	"stats": {
+		"stab-attack": "+15",
+		"slash-attack": "+15",
+		"crush-attack": "+15",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "+10",
+		"prayer-bonus": "+2",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ancient stole",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+2",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+2",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+10",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Arceuus house scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Armadyl pendant",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Armadyl stole",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+2",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+10",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bandos stole",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+2",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+2",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+10",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Beads of the dead",
+	"stats": {
+		"stab-attack": "+1",
+		"slash-attack": "+1",
+		"crush-attack": "+1",
+		"magic-attack": "+1",
+		"ranged-attack": "+1",
+		"stab-defence": "+1",
+		"slash-defence": "+1",
+		"crush-defence": "+1",
+		"magic-defence": "+1",
+		"ranged-defence": "+1",
+		"strength-bonus": "+1",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Berserker necklace",
+	"stats": {
+		"stab-attack": "-10",
+		"slash-attack": "-10",
+		"crush-attack": "-10",
+		"magic-attack": "+0",
+		"ranged-attack": "+0",
+		"stab-defence": "-20",
+		"slash-defence": "-20",
+		"crush-defence": "-20",
+		"magic-defence": "-20",
+		"ranged-defence": "-20",
+		"strength-bonus": "+7",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Binding necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Bobble scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Brass necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Burning amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Camulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Cat training medal",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Catspeak amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Catspeak amulet (e)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Clean necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Crystal pendant",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dark bow tie",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Desert amulet 1",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "0",
+		"magic-strength": "0"
+	}
+}, {
+	"item-name": "Desert amulet 2",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Desert amulet 3",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Desert amulet 4",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "0",
+		"magic-strength": "0"
+	}
+}, {
+	"item-name": "Diamond amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Diamond necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Digsite pendant",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dodgy necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dragon necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Dragonstone amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Emerald amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Emerald necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Games necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ghostspeak amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Glarial's amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gnome amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+13",
+		"slash-defence": "+13",
+		"crush-defence": "+13",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gnome scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gold amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Gold necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Guthix stole",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+2",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+2",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+10",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ham logo",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hazeel's mark",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Holy symbol",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+2",
+		"slash-defence": "+2",
+		"crush-defence": "+2",
+		"magic-defence": "+2",
+		"ranged-defence": "+2",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+8",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Hosidius house scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jade amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jade necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Jester scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Light bow tie",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lovakengj house scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Lunar amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+1",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+1",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "M'speak amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Necklace of anguish",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "15",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "2",
+		"ranged-strength": "5",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Necklace of faith",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Necklace of passage",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Occult necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+12",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+2",
+		"ranged-strength": "",
+		"magic-strength": "+10"
+	}
+}, {
+	"item-name": "Occult necklace (or)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+12",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+2",
+		"ranged-strength": "",
+		"magic-strength": "+10"
+	}
+}, {
+	"item-name": "Onyx amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Onyx necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Opal amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Opal necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pendant of lucien",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Phoenix necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Piscarilius house scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Pre-nature amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Rainbow scarf",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+0",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+0",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ruby amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Ruby necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Salve amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Salve amulet(ei)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Salve amulet (e)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Salve amulet (i)",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+3",
+		"slash-defence": "+3",
+		"crush-defence": "+3",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+3",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Sapphire amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Sapphire necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Saradomin stole",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+2",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+2",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+10",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Seal of passage",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Shayzien house scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Silver necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Skills necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Strength amulet (t)",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+0",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+0",
+		"ranged-defence": "+0",
+		"strength-bonus": "+10",
+		"prayer-bonus": "+0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Strung rabbit foot",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Topaz amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Topaz necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Tri-jester scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Unblessed symbol",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Unholy symbol",
+	"stats": {
+		"stab-attack": "+2",
+		"slash-attack": "+2",
+		"crush-attack": "+2",
+		"magic-attack": "+2",
+		"ranged-attack": "+2",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+8",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Unpowered symbol",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Void seal",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "+1",
+		"slash-defence": "+1",
+		"crush-defence": "+1",
+		"magic-defence": "+1",
+		"ranged-defence": "+1",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Witchwood icon",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+1",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "+1",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Woolly scarf",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Xeric's talisman",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+2",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Xeric's talisman",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "+3",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "+1",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Yin yang amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zamorak stole",
+	"stats": {
+		"stab-attack": "+0",
+		"slash-attack": "+0",
+		"crush-attack": "+0",
+		"magic-attack": "+2",
+		"ranged-attack": "+0",
+		"stab-defence": "+0",
+		"slash-defence": "+0",
+		"crush-defence": "+0",
+		"magic-defence": "+2",
+		"ranged-defence": "+0",
+		"strength-bonus": "+0",
+		"prayer-bonus": "+10",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zenyte amulet",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}, {
+	"item-name": "Zenyte necklace",
+	"stats": {
+		"stab-attack": "0",
+		"slash-attack": "0",
+		"crush-attack": "0",
+		"magic-attack": "0",
+		"ranged-attack": "0",
+		"stab-defence": "0",
+		"slash-defence": "0",
+		"crush-defence": "0",
+		"magic-defence": "0",
+		"ranged-defence": "0",
+		"strength-bonus": "0",
+		"prayer-bonus": "0",
+		"ranged-strength": "",
+		"magic-strength": ""
+	}
+}]

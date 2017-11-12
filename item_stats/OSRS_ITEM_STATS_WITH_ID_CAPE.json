@@ -1,0 +1,3090 @@
+[
+    {
+        "item-name": "3rd age cloak",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "+5",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12437"
+    },
+    {
+        "item-name": "Achievement diary cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "+4",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19476"
+    },
+    {
+        "item-name": "Agility cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9771"
+    },
+    {
+        "item-name": "Ancient cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "0",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12197"
+    },
+    {
+        "item-name": "Ardougne cloak 1",
+        "stats": {
+            "stab-attack": "+2",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "+2",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13121"
+    },
+    {
+        "item-name": "Ardougne cloak 2",
+        "stats": {
+            "stab-attack": "+4",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+4",
+            "ranged-attack": "0",
+            "stab-defence": "+4",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+4",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13122"
+    },
+    {
+        "item-name": "Ardougne cloak 3",
+        "stats": {
+            "stab-attack": "+5",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+5",
+            "ranged-attack": "0",
+            "stab-defence": "+5",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+5",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+5",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13123"
+    },
+    {
+        "item-name": "Ardougne cloak 4",
+        "stats": {
+            "stab-attack": "+6",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+6",
+            "ranged-attack": "0",
+            "stab-defence": "+6",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+6",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13124"
+    },
+    {
+        "item-name": "Ardougne max cape",
+        "stats": {
+            "stab-attack": "+6",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+6",
+            "ranged-attack": "0",
+            "stab-defence": "+6",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+6",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+6",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Armadyl cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "0",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12261"
+    },
+    {
+        "item-name": "Attack cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9747"
+    },
+    {
+        "item-name": "Attacker icon",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10556"
+    },
+    {
+        "item-name": "Ava's accumulator",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "+4",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10499"
+    },
+    {
+        "item-name": "Ava's attractor",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+2",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+2",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10498"
+    },
+    {
+        "item-name": "Ava's max cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "+4",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "0",
+            "magic-defence": "+4",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13337"
+    },
+    {
+        "item-name": "Bandos cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "0",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12273"
+    },
+    {
+        "item-name": "Black cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1019"
+    },
+    {
+        "item-name": "Blue cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1021"
+    },
+    {
+        "item-name": "Bonesack",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7918"
+    },
+    {
+        "item-name": "Cabbage cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13679"
+    },
+    {
+        "item-name": "Cape of Accomplishment",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Cape of legends",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+7",
+            "slash-defence": "+7",
+            "crush-defence": "+7",
+            "magic-defence": "+7",
+            "ranged-defence": "+7",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1052"
+    },
+    {
+        "item-name": "Champion's cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Clue hunter cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19697"
+    },
+    {
+        "item-name": "Collector icon",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10557"
+    },
+    {
+        "item-name": "Construct. cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9789"
+    },
+    {
+        "item-name": "Cooking cape",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "+0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9801"
+    },
+    {
+        "item-name": "Crafting cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9780"
+    },
+    {
+        "item-name": "Deadman's cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13319"
+    },
+    {
+        "item-name": "Decorative range quiver",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "+4",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Defence cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9753"
+    },
+    {
+        "item-name": "Defender icon",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10558"
+    },
+    {
+        "item-name": "Diving apparatus",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "7535"
+    },
+    {
+        "item-name": "Diving apparatus (2017 Hallowe'en event)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Eagle cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10171"
+    },
+    {
+        "item-name": "Explorer backpack",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+0",
+            "crush-defence": "+0",
+            "magic-defence": "+0",
+            "ranged-defence": "+0",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12514"
+    },
+    {
+        "item-name": "Farming cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9810"
+    },
+    {
+        "item-name": "Fire cape",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+11",
+            "slash-defence": "+11",
+            "crush-defence": "+11",
+            "magic-defence": "+11",
+            "ranged-defence": "+11",
+            "strength-bonus": "+4",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6570"
+    },
+    {
+        "item-name": "Fire max cape",
+        "stats": {
+            "stab-attack": "+1",
+            "slash-attack": "+1",
+            "crush-attack": "+1",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+11",
+            "slash-defence": "+11",
+            "crush-defence": "+11",
+            "magic-defence": "+11",
+            "ranged-defence": "+11",
+            "strength-bonus": "+4",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13329"
+    },
+    {
+        "item-name": "Firemaking cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9804"
+    },
+    {
+        "item-name": "Fishing cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9798"
+    },
+    {
+        "item-name": "Fletching cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9783"
+    },
+    {
+        "item-name": "Fremennik black cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3789"
+    },
+    {
+        "item-name": "Fremennik blue cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3763"
+    },
+    {
+        "item-name": "Fremennik brown cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3761"
+    },
+    {
+        "item-name": "Fremennik cyan cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3759"
+    },
+    {
+        "item-name": "Fremennik green cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3765"
+    },
+    {
+        "item-name": "Fremennik grey cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3779"
+    },
+    {
+        "item-name": "Fremennik pink cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3787"
+    },
+    {
+        "item-name": "Fremennik purple cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3785"
+    },
+    {
+        "item-name": "Fremennik red cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3777"
+    },
+    {
+        "item-name": "Fremennik teal cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3783"
+    },
+    {
+        "item-name": "Fremennik yellow cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "3781"
+    },
+    {
+        "item-name": "Ghostly cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+5",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+5",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6111"
+    },
+    {
+        "item-name": "Graceful cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11852"
+    },
+    {
+        "item-name": "Green cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1027"
+    },
+    {
+        "item-name": "Guthix cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "10",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+10",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2413"
+    },
+    {
+        "item-name": "Guthix cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "0",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10448"
+    },
+    {
+        "item-name": "Guthix max cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "10",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+10",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13335"
+    },
+    {
+        "item-name": "Ham cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "0",
+            "ranged-defence": "+1",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4304"
+    },
+    {
+        "item-name": "Healer icon",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10559"
+    },
+    {
+        "item-name": "Herblore cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9774"
+    },
+    {
+        "item-name": "Hitpoints cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9768"
+    },
+    {
+        "item-name": "Hunter cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9948"
+    },
+    {
+        "item-name": "Infernal cape",
+        "stats": {
+            "stab-attack": "+4",
+            "slash-attack": "+4",
+            "crush-attack": "+4",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+12",
+            "slash-defence": "+12",
+            "crush-defence": "+12",
+            "magic-defence": "+12",
+            "ranged-defence": "+12",
+            "strength-bonus": "+8",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Infernal max cape",
+        "stats": {
+            "stab-attack": "+4",
+            "slash-attack": "+4",
+            "crush-attack": "+4",
+            "magic-attack": "+1",
+            "ranged-attack": "+1",
+            "stab-defence": "+12",
+            "slash-defence": "+12",
+            "crush-defence": "+12",
+            "magic-defence": "+12",
+            "ranged-defence": "+12",
+            "strength-bonus": "+8",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Lunar cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9101"
+    },
+    {
+        "item-name": "Magic cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9762"
+    },
+    {
+        "item-name": "Max cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "+4",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13280"
+    },
+    {
+        "item-name": "Mining cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9792"
+    },
+    {
+        "item-name": "Monkey (Monkey Madness II)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Moonclan cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "-2",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+2",
+            "ranged-defence": "-2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9074"
+    },
+    {
+        "item-name": "Mourner cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6070"
+    },
+    {
+        "item-name": "Music cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13221"
+    },
+    {
+        "item-name": "Obsidian cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6568"
+    },
+    {
+        "item-name": "Obsidian cape (r)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20050"
+    },
+    {
+        "item-name": "Orange cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1031"
+    },
+    {
+        "item-name": "Pink cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6959"
+    },
+    {
+        "item-name": "Prayer cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9759"
+    },
+    {
+        "item-name": "Purple cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1029"
+    },
+    {
+        "item-name": "Quest point cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9813"
+    },
+    {
+        "item-name": "Ranging cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9756"
+    },
+    {
+        "item-name": "Red cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1007"
+    },
+    {
+        "item-name": "Runecraft cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9765"
+    },
+    {
+        "item-name": "Sack of presents",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Saradomin cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "10",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+10",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2412"
+    },
+    {
+        "item-name": "Saradomin cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "0",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "+3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10446"
+    },
+    {
+        "item-name": "Saradomin max cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+10",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+10",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13331"
+    },
+    {
+        "item-name": "Saradomin team cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Slayer cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9786"
+    },
+    {
+        "item-name": "Smithing cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9795"
+    },
+    {
+        "item-name": "Spotted cape",
+        "stats": {
+            "stab-attack": "+0",
+            "slash-attack": "+0",
+            "crush-attack": "+0",
+            "magic-attack": "+0",
+            "ranged-attack": "+0",
+            "stab-defence": "+0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+0",
+            "ranged-defence": "+2",
+            "strength-bonus": "+0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10069"
+    },
+    {
+        "item-name": "Spottier cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10071"
+    },
+    {
+        "item-name": "Strength cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9750"
+    },
+    {
+        "item-name": "Team-10 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4333"
+    },
+    {
+        "item-name": "Team-11 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4335"
+    },
+    {
+        "item-name": "Team-12 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4337"
+    },
+    {
+        "item-name": "Team-13 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4339"
+    },
+    {
+        "item-name": "Team-14 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4341"
+    },
+    {
+        "item-name": "Team-15 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4343"
+    },
+    {
+        "item-name": "Team-16 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4345"
+    },
+    {
+        "item-name": "Team-17 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4347"
+    },
+    {
+        "item-name": "Team-18 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4349"
+    },
+    {
+        "item-name": "Team-19 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4351"
+    },
+    {
+        "item-name": "Team-1 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4315"
+    },
+    {
+        "item-name": "Team-20 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4353"
+    },
+    {
+        "item-name": "Team-21 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4355"
+    },
+    {
+        "item-name": "Team-22 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4357"
+    },
+    {
+        "item-name": "Team-23 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4359"
+    },
+    {
+        "item-name": "Team-24 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4361"
+    },
+    {
+        "item-name": "Team-25 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4363"
+    },
+    {
+        "item-name": "Team-26 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4365"
+    },
+    {
+        "item-name": "Team-27 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4367"
+    },
+    {
+        "item-name": "Team-28 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4369"
+    },
+    {
+        "item-name": "Team-29 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4371"
+    },
+    {
+        "item-name": "Team-2 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4317"
+    },
+    {
+        "item-name": "Team-30 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4373"
+    },
+    {
+        "item-name": "Team-31 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4375"
+    },
+    {
+        "item-name": "Team-32 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4377"
+    },
+    {
+        "item-name": "Team-33 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4379"
+    },
+    {
+        "item-name": "Team-34 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4381"
+    },
+    {
+        "item-name": "Team-35 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4383"
+    },
+    {
+        "item-name": "Team-36 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4385"
+    },
+    {
+        "item-name": "Team-37 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4387"
+    },
+    {
+        "item-name": "Team-38 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4389"
+    },
+    {
+        "item-name": "Team-39 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4391"
+    },
+    {
+        "item-name": "Team-3 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4319"
+    },
+    {
+        "item-name": "Team-40 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4393"
+    },
+    {
+        "item-name": "Team-41 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4395"
+    },
+    {
+        "item-name": "Team-42 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4397"
+    },
+    {
+        "item-name": "Team-43 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4399"
+    },
+    {
+        "item-name": "Team-44 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4401"
+    },
+    {
+        "item-name": "Team-45 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4403"
+    },
+    {
+        "item-name": "Team-46 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4405"
+    },
+    {
+        "item-name": "Team-47 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4407"
+    },
+    {
+        "item-name": "Team-48 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4409"
+    },
+    {
+        "item-name": "Team-49 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4411"
+    },
+    {
+        "item-name": "Team-4 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4321"
+    },
+    {
+        "item-name": "Team-50 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4413"
+    },
+    {
+        "item-name": "Team-5 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4323"
+    },
+    {
+        "item-name": "Team-6 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4325"
+    },
+    {
+        "item-name": "Team-7 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4327"
+    },
+    {
+        "item-name": "Team-8 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4329"
+    },
+    {
+        "item-name": "Team-9 cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4331"
+    },
+    {
+        "item-name": "Team cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Team cape i",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20217"
+    },
+    {
+        "item-name": "Team cape x",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20214"
+    },
+    {
+        "item-name": "Team cape zero",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "20211"
+    },
+    {
+        "item-name": "Thieving cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9777"
+    },
+    {
+        "item-name": "Woodcutting cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+9",
+            "slash-defence": "+9",
+            "crush-defence": "+9",
+            "magic-defence": "+9",
+            "ranged-defence": "+9",
+            "strength-bonus": "0",
+            "prayer-bonus": "0 (+4 trimmed)",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9807"
+    },
+    {
+        "item-name": "Yellow cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1023"
+    },
+    {
+        "item-name": "Zamorak cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "10",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+10",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2414"
+    },
+    {
+        "item-name": "Zamorak cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+1",
+            "ranged-attack": "0",
+            "stab-defence": "+3",
+            "slash-defence": "+3",
+            "crush-defence": "+3",
+            "magic-defence": "+3",
+            "ranged-defence": "+3",
+            "strength-bonus": "0",
+            "prayer-bonus": "3",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "10450"
+    },
+    {
+        "item-name": "Zamorak max cape",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "10",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+2",
+            "magic-defence": "+10",
+            "ranged-defence": "+0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13333"
+    },
+    {
+        "item-name": "Zamorak team cloak",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "0",
+            "ranged-defence": "+2",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    }
+]
