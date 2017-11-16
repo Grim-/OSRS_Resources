@@ -1,0 +1,934 @@
+[
+    {
+        "item-name": "'perfect' ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "773"
+    },
+    {
+        "item-name": "Archers ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "+4",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "+4",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6733",
+        "tradeable": true
+    },
+    {
+        "item-name": "Archers ring (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "+8",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "+8",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11771"
+    },
+    {
+        "item-name": "Beacon ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+1",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11014"
+    },
+    {
+        "item-name": "Berserker ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+4",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+4",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6737",
+        "tradeable": true
+    },
+    {
+        "item-name": "Berserker ring (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+8",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "+8",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11773"
+    },
+    {
+        "item-name": "Diamond ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1643",
+        "tradeable": true
+    },
+    {
+        "item-name": "Dragonstone ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1645",
+        "tradeable": true
+    },
+    {
+        "item-name": "Efaritay's aid",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "tradeable": true
+    },
+    {
+        "item-name": "Emerald ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1639",
+        "tradeable": true
+    },
+    {
+        "item-name": "Explorer's ring 1",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13125"
+    },
+    {
+        "item-name": "Explorer's ring 2",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13126"
+    },
+    {
+        "item-name": "Explorer's ring 3",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13127"
+    },
+    {
+        "item-name": "Explorer's ring 4",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "+1",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13128"
+    },
+    {
+        "item-name": "Gold ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1635",
+        "tradeable": true
+    },
+    {
+        "item-name": "Granite ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+2",
+            "slash-defence": "+2",
+            "crush-defence": "+2",
+            "magic-defence": "-2",
+            "ranged-defence": "+8",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Granite ring (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+4",
+            "slash-defence": "+4",
+            "crush-defence": "+4",
+            "magic-defence": "-4",
+            "ranged-defence": "+16",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Jade ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "tradeable": true
+    },
+    {
+        "item-name": "Lunar ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+2",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+2",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "9104"
+    },
+    {
+        "item-name": "Onyx ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6564",
+        "tradeable": true
+    },
+    {
+        "item-name": "Opal ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "tradeable": true
+    },
+    {
+        "item-name": "Ring of dueling",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Ring of pursuit",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "tradeable": true
+    },
+    {
+        "item-name": "Ring of recoil",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2550",
+        "tradeable": true
+    },
+    {
+        "item-name": "Ring of returning",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Ring of suffering",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+10",
+            "slash-defence": "+10",
+            "crush-defence": "+10",
+            "magic-defence": "+10",
+            "ranged-defence": "+10",
+            "strength-bonus": "0",
+            "prayer-bonus": "+2",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19550",
+        "tradeable": true
+    },
+    {
+        "item-name": "Ring of suffering (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+20",
+            "slash-defence": "+20",
+            "crush-defence": "+20",
+            "magic-defence": "+20",
+            "ranged-defence": "+20",
+            "strength-bonus": "0",
+            "prayer-bonus": "+4",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19710"
+    },
+    {
+        "item-name": "Ring of the gods",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "0",
+            "prayer-bonus": "+4",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12601",
+        "tradeable": true
+    },
+    {
+        "item-name": "Ring of the gods (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+1",
+            "slash-defence": "+1",
+            "crush-defence": "+1",
+            "magic-defence": "+1",
+            "ranged-defence": "+1",
+            "strength-bonus": "0",
+            "prayer-bonus": "+8",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "13202"
+    },
+    {
+        "item-name": "Ring of visibility",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "4657"
+    },
+    {
+        "item-name": "Ring of wealth",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "2572",
+        "tradeable": true
+    },
+    {
+        "item-name": "Ring of wealth (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12785"
+    },
+    {
+        "item-name": "Ruby ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1641",
+        "tradeable": true
+    },
+    {
+        "item-name": "Sapphire ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "1637",
+        "tradeable": true
+    },
+    {
+        "item-name": "Seers ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+6",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+6",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6731",
+        "tradeable": true
+    },
+    {
+        "item-name": "Seers ring (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "+12",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "+12",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11770"
+    },
+    {
+        "item-name": "Slayer ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Slayer ring (eternal)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        }
+    },
+    {
+        "item-name": "Topaz ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "tradeable": true
+    },
+    {
+        "item-name": "Treasonous ring",
+        "stats": {
+            "stab-attack": "+4",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+4",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12605",
+        "tradeable": true
+    },
+    {
+        "item-name": "Treasonous ring (i)",
+        "stats": {
+            "stab-attack": "+8",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "+8",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12692"
+    },
+    {
+        "item-name": "Tyrannical ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "+4",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+4",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12603",
+        "tradeable": true
+    },
+    {
+        "item-name": "Tyrannical ring (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "+8",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "+8",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "12691"
+    },
+    {
+        "item-name": "Warrior ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "+4",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+4",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "6735",
+        "tradeable": true
+    },
+    {
+        "item-name": "Warrior ring (i)",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "+8",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "+8",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "11772"
+    },
+    {
+        "item-name": "Zenyte ring",
+        "stats": {
+            "stab-attack": "0",
+            "slash-attack": "0",
+            "crush-attack": "0",
+            "magic-attack": "0",
+            "ranged-attack": "0",
+            "stab-defence": "0",
+            "slash-defence": "0",
+            "crush-defence": "0",
+            "magic-defence": "0",
+            "ranged-defence": "0",
+            "strength-bonus": "0",
+            "prayer-bonus": "0",
+            "ranged-strength": "",
+            "magic-strength": ""
+        },
+        "id": "19499",
+        "tradeable": true
+    }
+]
