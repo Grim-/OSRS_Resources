@@ -5,29 +5,31 @@ I will be uploading the code used to parse the information at a later time so ot
 
 
 
-OSRS_GE_ITEM_DETAILS: Contains all items parsed from OSRS GE Catalogue in seperate aplhabetical files and all in one (all_in_one.json) the price data won't be very useful but I wanted to offer it exactly as I parsed it.
+OSRS_GE_ITEM_DETAILS:
+Contains all items parsed from OSRS GE Catalogue in seperate aplhabetical files and all in one (all_in_one.json) the price data won't be very useful but I wanted to offer it exactly as I parsed it.
 
-{
-	"icon":"http://services.runescape.com/m=itemdb_oldschool/1510570893006_obj_sprite.gif?id=890",
-	"icon_large":"http://services.runescape.com/m=itemdb_oldschool/1510570893006_obj_big.gif?id=890",
-	"id":890,
-	"type":"Default",
-	"typeIcon":"http://www.runescape.com/img/categories/Default",
-	"name":"Adamant arrow",
-	"description":"Arrows with adamant heads.",
-	"current":{
-	  "trend":"neutral",
-		"price":57
-		},
-	"today":{
-	  "trend":"neutral",
-		"price":0
-		},
-	"members":"false"
-}
+	{
+		"icon":"http://services.runescape.com/m=itemdb_oldschool/1510570893006_obj_sprite.gif?id=890",
+		"icon_large":"http://services.runescape.com/m=itemdb_oldschool/1510570893006_obj_big.gif?id=890",
+		"id":890,
+		"type":"Default",
+		"typeIcon":"http://www.runescape.com/img/categories/Default",
+		"name":"Adamant arrow",
+		"description":"Arrows with adamant heads.",
+		"current":{
+		  "trend":"neutral",
+			"price":57
+			},
+		"today":{
+		  "trend":"neutral",
+			"price":0
+			},
+		"members":"false"
+	}
 
 
-OSRS_ITEM_STATS: Contains every item on http://oldschoolrunescape.wikia.com/wiki/Category:Slot_tables parsed into a json with item name for each item.
+OSRS_ITEM_STATS:
+Contains every item on http://oldschoolrunescape.wikia.com/wiki/Category:Slot_tables parsed into a json with item name for each item.
 
     {
         "item-name": "Adamant arrow",
@@ -52,7 +54,10 @@ OSRS_ITEM_STATS: Contains every item on http://oldschoolrunescape.wikia.com/wiki
     }
 
 
-OSRS_ITEM_STATS_MERGED_WITH_GE_DATA: Contains all items parsed from OSRS GE Catalogue and http://oldschoolrunescape.wikia.com/wiki/Category:Slot_tables, for each slot merged together with the useless item price data removed.
+OSRS_ITEM_STATS_MERGED_WITH_GE_DATA:
+Contains all items parsed from OSRS GE Catalogue and http://oldschoolrunescape.wikia.com/wiki/Category:Slot_tables, for each slot merged together with the useless item price data removed. 
+
+This is likely the data you will need, as well as the pictures.
 
 a typical item object contained here looks like
 
@@ -80,6 +85,8 @@ a typical item object contained here looks like
         "tradeable": true
     }
 
-ALL_TRADEABLE_OSRS_ITEM_IMAGES: Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png
+ALL_TRADEABLE_OSRS_ITEM_IMAGES:
+Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png
 
-ALL_OSRS_OBJECTS+ITEMS_WITH_PARTIAL_PICTURES: Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png, also included are pictures for a good portion of item pictures (even interactables, doors etc) - this is not complete and isn't likely to be updated.
+ALL_OSRS_OBJECTS+ITEMS_WITH_PARTIAL_PICTURES: 
+Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png, also included are pictures for a good portion of item pictures (even interactables, doors etc) - this is not complete and isn't likely to be updated.
