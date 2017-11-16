@@ -1,11 +1,13 @@
 # OSRS_Resources
+
 A selection of resources I have either parsed or found relating to OSRS Fan site development.
 
 I will be uploading the code used to parse the information at a later time so others can update at any time.
 
-
+There are a few data sets as they were parsed from different locations with different formats, OSRS_ITEM_STATS_MERGED_WITH_GE_DATA is the result of merging/pruning and combining each array.
 
 OSRS_GE_ITEM_DETAILS:
+
 Contains all items parsed from OSRS GE Catalogue in seperate aplhabetical files and all in one (all_in_one.json) the price data won't be very useful but I wanted to offer it exactly as I parsed it.
 
 	{
@@ -29,6 +31,7 @@ Contains all items parsed from OSRS GE Catalogue in seperate aplhabetical files 
 
 
 OSRS_ITEM_STATS:
+
 Contains every item on http://oldschoolrunescape.wikia.com/wiki/Category:Slot_tables parsed into a json with item name for each item.
 
     {
@@ -55,6 +58,7 @@ Contains every item on http://oldschoolrunescape.wikia.com/wiki/Category:Slot_ta
 
 
 OSRS_ITEM_STATS_MERGED_WITH_GE_DATA:
+
 Contains all items parsed from OSRS GE Catalogue and http://oldschoolrunescape.wikia.com/wiki/Category:Slot_tables, for each slot merged together with the useless item price data removed. 
 
 This is likely the data you will need, as well as the pictures.
@@ -86,7 +90,16 @@ a typical item object contained here looks like
     }
 
 ALL_TRADEABLE_OSRS_ITEM_IMAGES:
-Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png
+
+Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png  
+![Abyssal Whip](https://github.com/Grim-/OSRS_Resources/raw/master/ALL_TRADEABLE_OSRS_ITEM_IMAGES/4151.png "Abyssal Whip")
+
+
+
 
 ALL_OSRS_OBJECTS+ITEMS_WITH_PARTIAL_PICTURES: 
+
+![Abyssal Whip](https://github.com/Grim-/OSRS_Resources/raw/master/ALL_OSRS_OBJECTS%2BITEMS_WITH_PARTIAL_PICTURES/11882.png "Abyssal Whip")
+
+
 Contains every picture for items on the OSRS_GE_ITEM_DETAILS pictures are named as [id].png, also included are pictures for a good portion of item pictures (even interactables, doors etc) - this is not complete and isn't likely to be updated.
