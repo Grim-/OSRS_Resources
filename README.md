@@ -18,14 +18,8 @@ Contains all items parsed from OSRS GE Catalogue in seperate aplhabetical files 
 		"typeIcon":"http://www.runescape.com/img/categories/Default",
 		"name":"Adamant arrow",
 		"description":"Arrows with adamant heads.",
-		"current":{
-		  "trend":"neutral",
-			"price":57
-			},
-		"today":{
-		  "trend":"neutral",
-			"price":0
-			},
+		"current":{ "trend":"neutral", "price":57 },
+		"today":{ "trend":"neutral", "price":0 },
 		"members":"false"
 	}
 
